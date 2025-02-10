@@ -1,0 +1,16 @@
+@import './base.css';
+@import url('https://fonts.cdnfonts.com/css/onest');
+@import url('https://fonts.cdnfonts.com/css/roboto');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+a {
+  text-decoration: none;
+}
+button:hover {
+  transform: translateY(-2px);
+  transition:
+    transform 0.2s,
+    opacity 0.2s;
+  opacity: 0.6;
+}
