@@ -11,6 +11,7 @@ import Footer from './components/Footer.vue'
     <div class="pages">
       <div class="page">
         <RouterView />
+        .
       </div>
     </div>
     <Footer />
