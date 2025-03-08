@@ -1,44 +1,54 @@
 <template>
   <div class="flex items-center justify-center flex-col gap-[5rem]">
     <div
-      class="gridContainer w-full h-full max-w-[1500px] flex items-center justify-center flex-col gap-[20rem]"
+      class="gridContainer w-full h-full max-w-[1500px] flex items-center justify-center flex-col gap-[10rem] sm:gap-[20rem] translate-y-[-12rem] sm:translate-y-0"
     >
-      <div class="flex items-center justify-center gap-0 sm:gap-2 lg:gap-16">
+      <div class="flex items-center justify-center flex-col sm:flex-row gap-10 sm:gap-2 lg:gap-16">
         <div>
           <img
-            class="w-[50%] h-[50%] sm:w-[80%] sm:h-[80%] lg:w-full lg:h-full translate-x-[6rem] sm:translate-x-0"
+            class="w-[70%] h-[70%] sm:w-[80%] sm:h-[80%] lg:w-full lg:h-full translate-x-[2rem] sm:translate-x-0"
             src="../assets/imgs/About/Logo.png"
           />
         </div>
         <div class="flex items-start justify-center flex-col gap-4 sm:gap-10">
-          <div class="flex items-start xl:items-center justify-center flex-col">
+          <div class="flex items-center sm:items-start xl:items-center justify-center flex-col">
             <span
-              class="sm:text-[25px] lg:text-[40px] xl:text-[60px] text-white font-[700] font-Onset flex items-center justify-center gap-2 sm:gap-4"
+              class="text-[30px] lg:text-[40px] xl:text-[60px] text-white font-[700] font-Onset flex items-center justify-center gap-2 sm:gap-4"
             >
               <div
-                class="flex items-center justify-center w-[65px] sm:w-[85px] lg:w-[130px] xl:w-[200px] h-[25px] sm:h-[35px] lg:h-[59px] xl:h-[69px] bg-[#686EDA80] font-[700]"
+                class="flex items-center justify-center w-[100px] sm:w-[85px] lg:w-[130px] xl:w-[200px] h-[33px] sm:h-[35px] lg:h-[59px] xl:h-[69px] bg-[#686EDA80] font-[700]"
               >
                 About
               </div>
               Artl Studio LLC,
             </span>
             <span
-              class="text-[10px] lg:text-[18px] xl:text-[24px] font-[600] text-white leading-[30.6px] tracking-[0.19em]"
+              class="text-[13px] lg:text-[18px] xl:text-[24px] font-[600] text-white leading-[30.6px] tracking-[0.19em]"
               >For Digital Services and Software Solutions
             </span>
           </div>
-          <div class="flex items-start justify-center flex-col">
+          <div class="flex items-center sm:items-start justify-center flex-col">
             <span
-              class="text-white text-[12px] sm:text-[18px] lg:text-[25px] xl:text-[31px] font-[700] font-Onset"
+              class="text-white text-[20px] sm:text-[18px] lg:text-[25px] xl:text-[31px] font-[700] font-Onset"
               >Your Trusted Partner for Your Success</span
             >
             <span
-              class="text-[6.5px] sm:text-[10px] lg:text-[15px] xl:text-[20px] text-white font-[500] font-Onset"
+              class="hidden sm:flex text-[6.5px] sm:text-[10px] lg:text-[15px] xl:text-[20px] text-white font-[500] font-Onset"
               >Established in 2022, Artl Studio LLC is a US-based IT consulting and software<br />
               development company. We are trusted by clients for our commitment to budget<br />
               and timeline adherence, transparent collaboration, and consistently delivering<br />
               high-quality services.</span
             >
+            <div class="flex sm:hidden   items-center justify-center flex-col text-[12px] lg:text-[15px] xl:text-[20px] text-white font-[500] font-Onset">
+              <span>Established in 2022, Artl Studio LLC is a US-based IT consulting</span>
+              <span> and software
+                development company. We are  trusted by clients</span>
+                <span>  for ur commitment to budget
+                  and timeline adherence,</span>
+                  <span> transparent collaboration, and consistently 
+                    </span>
+                    <span>delivering high-quality services.</span>
+            </div>
           </div>
         </div>
       </div>
@@ -333,20 +343,20 @@
         </li>
       </div>
     </div>
-    <div class="mt-32 w-[60%] 2xl:w-full">
+    <div class="mt-32 w-full">
       <img src="../assets/imgs/About/Map.png" />
     </div>
     <div class="flex flex-col items-center justify-center gap-8 mt-6">
       <div class="flex items-center justify-center flex-col">
-        <span class="text-[16px] sm:text-[30px] 2xl:text-[50px] font-Onset font-[800] text-white"
+        <span class="text-[10px] sm:text-[16px] lg:text-[30px] 2xl:text-[50px] font-Onset font-[800] text-white"
           >Looking for a Partner to Support Your Business Growth</span
         >
-        <span class="text-[16px] sm:text-[30px] 2xl:text-[50px] font-Onset font-[800] text-white"
+        <span class=" text-[10px] sm:text-[16px] lg:text-[30px] 2xl:text-[50px] font-Onset font-[800] text-white"
           >or Monetize Your Idea?</span
         >
       </div>
       <button
-        class="w-[100px] sm:w-[200px] 2xl:w-[400px] h-[40px] sm:h-[60px] flex items-center justify-center rounded-[4px] bg-[#7177EC] text-[18px] sm:text-[25px] font-Onset font-[600] text-white"
+        class="w-[150px] lg:w-[200px] 2xl:w-[400px] h-[40px] lg:h-[60px] flex items-center justify-center rounded-[4px] bg-[#7177EC] text-[18px] lg:text-[25px] font-Onset font-[600] text-white"
       >
         Contact Us
       </button>

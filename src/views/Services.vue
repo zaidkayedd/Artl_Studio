@@ -7,21 +7,21 @@
         <div class="flex items-center justify-center flex-col gap-10">
           <div class="flex items-center justify-center flex-col">
             <span
-              class="text-[60px] text-white font-[700] font-Onset flex items-center justify-center gap-4"
+              class="text-[18px] sm:text-[25px] md:text-[40px] xl:text-[60px] text-white font-[700] font-Onset flex items-center justify-center gap-1 xl:gap-4"
             >
               <div
-                class="flex items-center justify-center w-[230px] h-[69px] bg-[#686EDA80] font-[700]"
+                class="flex items-center justify-center w-[70px] sm:w-[100px] md:w-[160px] xl:w-[230px] h-[25px] sm:h-[30px] md:h-[50px] xl:h-[69px] bg-[#686EDA80] font-[700]"
               >
                 Building
               </div>
               excitement around your vision
             </span>
-            <span class="text-[60px] text-white font-[700] font-Onset">
+            <span class="text-[18px] sm:text-[25px] md:text-[40px] xl:text-[60px] text-white font-[700] font-Onset">
               and accelerating your growth.
             </span>
           </div>
-          <div class="flex items-center justify-center flex-col">
-            <span class="text-[20px] text-white font-[500] font-Onset"
+          <div class="hidden xl:flex items-center justify-center flex-col">
+            <span class="md:text-[20px] text-white font-[500] font-Onset"
               >At Artl Studio, we understand that growth requires a multifaceted approach. As a
               full-service agency,</span
             >
@@ -30,28 +30,47 @@
               exceptional experiences for your audience.</span
             >
           </div>
+          <div class="flex xl:hidden  items-center justify-center flex-col">
+            <span class="text-[8px] sm:text-[12px] md:text-[16px] lg:text-[20px] text-white font-[500] font-Onset"
+              >At Artl Studio, we understand that growth requires a multifaceted approach. As a full-service agency,
+              </span
+            >
+            <span class="text-[8px] sm:text-[12px] md:text-[16px] lg:text-[20px] text-white font-[500] font-Onset"
+              > we are dedicated to creating tailored solutions that inspire excitement and deliver
+              </span
+            >
+            <span class="text-[8px] sm:text-[12px] md:text-[16px] lg:text-[20px] text-white font-[500] font-Onset">exceptional experiences for your audience.</span>
+          </div>
         </div>
       </div>
     </div>
     <div class="flex items-center justify-center flex-col gap-4 mt-96">
-      <span class="text-[50px] text-white font-[700] font-Onset">From Concept to Market</span>
-      <span class="text-[22px] font-[500] font-Onset text-white"
+      <span class="text-[20px] md:text-[30px] xl:text-[50px] text-white font-[700] font-Onset">From Concept to Market</span>
+      <span class="hidden  xl:flex text-[22px] font-[500] font-Onset text-white"
         >Got an idea? We’re here to bring your vision to life with expert, multi-disciplinary
         execution you can trust.</span
       >
-      <div class="boxes grid grid-cols-2 gap-4">
+  
+      <div class="flex xl:hidden  items-center justify-center flex-col">
+        <span class="text-[12px] sm:text-[17px] md:text-[22px] font-[500] font-Onset text-white"
+        >Got an idea? We’re here to bring your vision to life with expert, </span
+      >
+      <span class="text-[12px] sm:text-[17px] md:text-[22px] font-[500] font-Onset text-white">multi-disciplinary
+        execution you can trust.</span>
+          </div>
+      <div class="boxes grid grid-cols-1 2xl:grid-cols-2 gap-4">
         <li>
           <div class="front">
             <div class="flex items-center justify-center flex-col gap-4">
               <img src="../assets/imgs/Services/First.png" />
-              <span class="text-white text-[20px] font-[700] font-Onset"
+              <span class="text-white text-[16px] md:text-[20px] font-[700] font-Onset"
                 >Engaged Requirements Engineering</span
               >
             </div>
           </div>
           <div class="back">
             <div
-              class="flex items-center justify-center flex-col text-[14px] text-white font-[500] font-Onset"
+              class="flex items-center justify-center flex-col text-[10px] md:text-[14px] text-white font-[500] font-Onset"
             >
               <span
                 >We understand that not all clients come with detailed project specifications. When
@@ -69,14 +88,14 @@
           <div class="front">
             <div class="flex items-center justify-center flex-col gap-4">
               <img src="../assets/imgs/Services/Second.png" />
-              <span class="text-white text-[20px] font-[700] font-Onset"
+              <span class="text-white text-[16px] md:text-[20px] font-[700] font-Onset"
                 >Engaged Requirements Engineering</span
               >
             </div>
           </div>
           <div class="back">
             <div
-              class="flex items-center justify-center flex-col text-[14px] text-white font-[500] font-Onset"
+              class="flex items-center justify-center flex-col text-[10px] md:text-[14px] text-white font-[500] font-Onset"
             >
               <span
                 >We understand that not all clients come with detailed project specifications. When
@@ -94,14 +113,14 @@
           <div class="front">
             <div class="flex items-center justify-center flex-col gap-4">
               <img src="../assets/imgs/Services/Third.png" />
-              <span class="text-white text-[20px] font-[700] font-Onset"
+              <span class="text-white text-[16px] md:text-[20px] font-[700] font-Onset"
                 >Engaged Requirements Engineering</span
               >
             </div>
           </div>
           <div class="back">
             <div
-              class="flex items-center justify-center flex-col text-[14px] text-white font-[500] font-Onset"
+              class="flex items-center justify-center flex-col text-[10px] md:text-[14px] text-white font-[500] font-Onset"
             >
               <span
                 >We understand that not all clients come with detailed project specifications. When
@@ -119,14 +138,14 @@
           <div class="front">
             <div class="flex items-center justify-center flex-col gap-4">
               <img src="../assets/imgs/Services/Fourth.png" />
-              <span class="text-white text-[20px] font-[700] font-Onset"
+              <span class="text-white text-[16px] md:text-[20px] font-[700] font-Onset"
                 >Engaged Requirements Engineering</span
               >
             </div>
           </div>
           <div class="back">
             <div
-              class="flex items-center justify-center flex-col text-[14px] text-white font-[500] font-Onset"
+              class="flex items-center justify-center flex-col text-[10px] md:text-[14px] text-white font-[500] font-Onset"
             >
               <span
                 >We understand that not all clients come with detailed project specifications. When
@@ -144,14 +163,14 @@
           <div class="front">
             <div class="flex items-center justify-center flex-col gap-4">
               <img src="../assets/imgs/Services/Fifth.png" />
-              <span class="text-white text-[20px] font-[700] font-Onset"
+              <span class="text-white text-[16px] md:text-[20px] font-[700] font-Onset"
                 >Engaged Requirements Engineering</span
               >
             </div>
           </div>
           <div class="back">
             <div
-              class="flex items-center justify-center flex-col text-[14px] text-white font-[500] font-Onset"
+              class="flex items-center justify-center flex-col text-[10px] md:text-[14px] text-white font-[500] font-Onset"
             >
               <span
                 >We understand that not all clients come with detailed project specifications. When
@@ -169,14 +188,14 @@
           <div class="front">
             <div class="flex items-center justify-center flex-col gap-4">
               <img src="../assets/imgs/Services/Sixth.png" />
-              <span class="text-white text-[20px] font-[700] font-Onset"
+              <span class="text-white text-[16px] md:text-[20px] font-[700] font-Onset"
                 >Engaged Requirements Engineering</span
               >
             </div>
           </div>
           <div class="back">
             <div
-              class="flex items-center justify-center flex-col text-[14px] text-white font-[500] font-Onset"
+              class="flex items-center justify-center flex-col text-[10px] md:text-[14px] text-white font-[500] font-Onset"
             >
               <span
                 >We understand that not all clients come with detailed project specifications. When
@@ -194,14 +213,14 @@
           <div class="front">
             <div class="flex items-center justify-center flex-col gap-4">
               <img src="../assets/imgs/Services/Seventh.png" />
-              <span class="text-white text-[20px] font-[700] font-Onset"
+              <span class="text-white text-[16px] md:text-[20px] font-[700] font-Onset"
                 >Engaged Requirements Engineering</span
               >
             </div>
           </div>
           <div class="back">
             <div
-              class="flex items-center justify-center flex-col text-[14px] text-white font-[500] font-Onset"
+              class="flex items-center justify-center flex-col text-[10px] md:text-[14px] text-white font-[500] font-Onset"
             >
               <span
                 >We understand that not all clients come with detailed project specifications. When
@@ -219,14 +238,14 @@
           <div class="front">
             <div class="flex items-center justify-center flex-col gap-4">
               <img src="../assets/imgs/Services/Eigth.png" />
-              <span class="text-white text-[20px] font-[700] font-Onset"
+              <span class="text-white text-[16px] md:text-[20px] font-[700] font-Onset"
                 >Engaged Requirements Engineering</span
               >
             </div>
           </div>
           <div class="back">
             <div
-              class="flex items-center justify-center flex-col text-[14px] text-white font-[500] font-Onset"
+              class="flex items-center justify-center flex-col text-[10px] md:text-[14px] text-white font-[500] font-Onset"
             >
               <span
                 >We understand that not all clients come with detailed project specifications. When
@@ -247,44 +266,118 @@
       <div class="Phone relative">
         <img class="z-[-1]" src="../assets/imgs/Services/Backk.svg" />
         <img
-          class="first-image top-[40%] left-[20%] absolute z-10"
+          class="first-image hidden lg:flex top-[-20%] lg:top-[-10%] xl:top-[40%] left-[20%] absolute z-10"
           src="../assets/imgs/Services/SmallPhone.png"
         />
         <img
-          class="second-image top-[10%] left-[50%] absolute"
+          class="second-image hidden lg:flex  top-[-55%] lg:top-[-30%] xl:top-[10%] left-[50%] absolute"
           src="../assets/imgs/Services/Phone.png"
+        />
+        <img
+          class="first-image1 lg:hidden md:flex hidden  top-[20%] left-[20%] absolute z-10"
+          src="../assets/imgs/Services/SmallPhone1.png"
+        />
+        <img
+          class="second-image1 lg:hidden md:flex hidden  top-[-20%]  left-[50%] absolute"
+          src="../assets/imgs/Services/Phone1.png"
+        />
+        <img
+          class="first-image2 md:hidden flex  top-[-20%] 450:top-[0%] 550:top-[10%] left-[20%] absolute z-10"
+          src="../assets/imgs/Services/SmallPhone2.png"
+        />
+        <img
+          class="second-image2 md:hidden flex  top-[-50%] 450:top-[-30%] 550:top-[-10%]  left-[50%] absolute"
+          src="../assets/imgs/Services/Phone2.png"
         />
       </div>
       <!-- <div class="scroll-trigger" style="height: 100px"></div> -->
       <div class="flex flex-col items-center justify-center gap-8">
         <div class="flex items-center justify-center flex-col">
-          <span class="text-[50px] font-Onset font-[800] text-white"
+          <span class="text-[15px] sm:text-[20px] md:text-[30px] xl:text-[50px] font-Onset font-[800] text-white"
             >Are you Ready to Get Started with your Journey?</span
           >
-          <span class="text-white text-[21px] font-[500] font-Onset"
+          <span class="hidden xl:flex text-white text-[21px] font-[500] font-Onset"
             >Once you've completed the form, our manager will send you an email with the information
             within the next few hours.</span
           >
+          <div class="flex xl:hidden items-center justify-center flex-col">
+            <span  class="text-white text-[12px] sm:text-[17px] md:text-[21px] font-[500] font-Onset">Once you've completed the form, our manager will send you an email</span>
+            <span  class="text-white text-[12px] sm:text-[17px] md:text-[21px] font-[500] font-Onset">with the information
+              within the next few hours.</span>
+          </div>
         </div>
         <button
-          class="w-[400px] h-[60px] flex items-center justify-center rounded-[4px] bg-[#7177EC] text-[25px] font-Onset font-[600] text-white"
+          class="w-[350px] md:w-[400px] h-[60px] flex items-center justify-center rounded-[4px] bg-[#7177EC] text-[25px] font-Onset font-[600] text-white"
         >
           Let's Talk
         </button>
       </div>
     </div>
     <div
-      class="letsTalkBox w-full max-w-[1150px] 2xl:max-w-[1418px] h-[642px] flex items-center justify-center px-[3rem] gap-[5rem] 2xl:gap-[7rem]"
+      class="letsTalkBox w-full max-w-[350px] sm:max-w-[600px] 2xl:max-w-[1418px] xl:max-w-[1150px] lg:max-w-[1000px] md:max-w-[700px] h-[305px] sm:h-[550px] xl:h-[642px] lg:h-[550px] md:h-[630px] hidden md:flex items-center justify-center flex-col lg:flex-row px-[3rem] gap-[1rem] 2xl:gap-[7rem] lg:gap-[5rem]"
     >
-      <div class="flex flex-col items-start justify-center w-[1500px] z-50">
-        <span class="font-Onset font-[800] text-white text-[64px]">Let’s Talk</span>
-        <span class="font-Onset font-[500] text-white text-[20px]"
+      <div
+        class="flex flex-col item-start justify-center w-[200px] sm:w-[405px] lg:w-[1500px] md:w-[485px] z-50"
+      >
+        <span class="font-Onset font-[800] text-white text-[20px] sm:text-[35px] lg:text-[64px] md:text-[45px]"
+          >Let’s Talk</span
+        >
+        <span class="font-Onset font-[500] text-white text-[6px] sm:text-[12px] lg:text-[20px] md:text-[16px]"
           >Have some big idea or brand to develop and need help?<br />
           Then reach out we'd love to hear about your project<br />
           and provide help</span
         >
       </div>
-      <div class="flex flex-col items-start justify-center gap-10 w-full z-50">
+      <div
+        class="flex flex-col items-center lg:items-start justify-center gap-2 sm:gap-5 lg:gap-10 w-[80%] lg:w-full z-50"
+      >
+        <div class="flex flex-col items-start justify-center w-full">
+          <span class="font-Onset font-[500] text-[14px] text-white">Name</span>
+          <input
+            v-model="name"
+            class="input font-Onset font-[500] text-[14px] text-white w-full max-w-[563px] h-[20px] sm:h-[46px] border-[0.5px] rounded-[4px] border-[#FFFFFF80] bg-transparent px-[1rem] outline-none"
+            placeholder="Type your name..."
+          />
+          <span v-if="errors.name" class="text-red-500">{{ errors.name }}</span>
+        </div>
+        <div class="flex flex-col items-start justify-center w-full">
+          <span class="font-Onset font-[500] text-[14px] text-white">Email</span>
+          <input
+            v-model="email"
+            class="input font-Onset font-[500] text-[14px] text-white w-full max-w-[563px] h-[20px] sm:h-[46px] border-[0.5px] rounded-[4px] border-[#FFFFFF80] bg-transparent px-[1rem] outline-none"
+            placeholder="Type your email..."
+          />
+          <span v-if="errors.email" class="text-red-500">{{ errors.email }}</span>
+        </div>
+        <div class="flex flex-col w-full">
+          <span class="font-Onset font-[500] text-[14px] text-white">Message</span>
+          <textarea
+            v-model="message"
+            class="input font-Onset font-[500] text-[14px] text-white bg-transparent border-[0.5px] rounded-[4px] border-[#FFFFFF80] w-full max-w-[563px] h-[60px] sm:h-[125px] md:h-[165px] px-[1rem] py-[1rem] outline-none"
+            placeholder="Type your Request / Message..."
+          ></textarea>
+          <span v-if="errors.message" class="text-red-500">{{ errors.message }}</span>
+        </div>
+        <button
+          @click="handleSubmit"
+          class="flex items-center justify-center w-full max-w-[563px] h-[20px] sm:h-[46px] rounded-[4px] bg-[#7177EC] font-Onset font-[600] text-white text-[14px] sm:text-[20px]"
+        >
+          Submit
+        </button>
+      </div>
+    </div>
+    <div class="letsTalkBox1 w-[384px] h-[862px] flex md:hidden items-center justify-center flex-col gap-[5rem]">
+      <div class="flex items-center justify-center flex-col">
+        <span class=" font-Onset text-[50px] text-white font-[800]">Let’s Talk</span>
+        <div class="flex items-center justify-center flex-col font-Onset text-[14px] text-white font-500">
+          <span>Have some big idea or brand to develop and</span>
+          <span>need help? Then reach out we'd love to hear</span>
+          <span>about your project  and provide help</span>
+        </div>
+      </div>
+      <div
+        class="flex flex-col items-center lg:items-start justify-center gap-5 lg:gap-10 w-[80%] lg:w-full z-50"
+      >
         <div class="flex flex-col items-start justify-center w-full">
           <span class="font-Onset font-[500] text-[14px] text-white">Name</span>
           <input
@@ -307,14 +400,14 @@
           <span class="font-Onset font-[500] text-[14px] text-white">Message</span>
           <textarea
             v-model="message"
-            class="input font-Onset font-[500] text-[14px] text-white bg-transparent border-[0.5px] rounded-[4px] border-[#FFFFFF80] w-full max-w-[563px] h-[165px] px-[1rem] py-[1rem] outline-none"
+            class="input font-Onset font-[500] text-[14px] text-white bg-transparent border-[0.5px] rounded-[4px] border-[#FFFFFF80] w-full max-w-[563px] h-[316px] px-[1rem] py-[1rem] outline-none"
             placeholder="Type your Request / Message..."
           ></textarea>
           <span v-if="errors.message" class="text-red-500">{{ errors.message }}</span>
         </div>
         <button
           @click="handleSubmit"
-          class="flex items-center justify-center w-full max-w-[563px] h-[46px] rounded-[4px] bg-[#7177EC] font-Onset font-[600] text-white text-[20px]"
+          class="flex items-center justify-center w-full max-w-[563px] h-[46px] rounded-[4px] bg-[#7177EC] font-Onset font-[600] text-white text-[14px] sm:text-[20px]"
         >
           Submit
         </button>
@@ -417,6 +510,12 @@ li {
     transform: rotateY(0);
   }
 }
+@media (max-width: 750px){
+  li{
+    width: 350px;
+  height: 135px; 
+  }
+}
 li:before {
   content: '';
   position: absolute;
@@ -462,6 +561,32 @@ li:before {
 }
 .text-red-500 {
   color: red;
+}
+.letsTalkBox1 {
+  position: relative;
+  background-image: url(../assets/imgs/Home/Vector1.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+background-position-y:100% ;
+  z-index: 1;
+}
+.letsTalkBox1::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+
+  border: 1px solid #fff;
+  border-radius: 4px;
+  background: linear-gradient(
+    180deg,
+    rgba(21, 243, 175, 0.2) 0%,
+    rgba(104, 110, 218, 0.4) 44.5%,
+    rgba(104, 110, 218, 0.4) 100%
+  );
+  opacity: 40%;
 }
 </style>
 <script>
@@ -542,6 +667,74 @@ document.addEventListener('DOMContentLoaded', function () {
 
         secondImage.style.transition = 'left 0.5s ease'
         secondImage.style.left = '50%' // Original position
+      }
+    })
+  }
+
+  const observer = new IntersectionObserver(callback, options)
+  observer.observe(document.querySelector('.Phone'))
+})
+document.addEventListener('DOMContentLoaded', function () {
+  const firstImage1 = document.querySelector('.first-image1')
+  const secondImage1 = document.querySelector('.second-image1')
+
+  const options = {
+    root: null,
+    rootMargin: '0px',
+    threshold: 0.1,
+  }
+
+  const callback = (entries) => {
+    entries.forEach((entry) => {
+      if (entry.isIntersecting) {
+        // Animate first image to new position
+        firstImage1.style.transition = 'left 0.5s ease'
+        firstImage1.style.left = '38%'
+
+        // Animate second image to new position
+        secondImage1.style.transition = 'left 0.5s ease'
+        secondImage1.style.left = '40%'
+      } else {
+        // Reset positions when scrolling away
+        firstImage1.style.transition = 'left 0.5s ease'
+        firstImage1.style.left = '20%' // Original position
+
+        secondImage1.style.transition = 'left 0.5s ease'
+        secondImage1.style.left = '50%' // Original position
+      }
+    })
+  }
+
+  const observer = new IntersectionObserver(callback, options)
+  observer.observe(document.querySelector('.Phone'))
+})
+document.addEventListener('DOMContentLoaded', function () {
+  const firstImage2 = document.querySelector('.first-image2')
+  const secondImage2 = document.querySelector('.second-image2')
+
+  const options = {
+    root: null,
+    rootMargin: '0px',
+    threshold: 0.1,
+  }
+
+  const callback = (entries) => {
+    entries.forEach((entry) => {
+      if (entry.isIntersecting) {
+        // Animate first image to new position
+        firstImage2.style.transition = 'left 0.5s ease'
+        firstImage2.style.left = '38%'
+
+        // Animate second image to new position
+        secondImage2.style.transition = 'left 0.5s ease'
+        secondImage2.style.left = '40%'
+      } else {
+        // Reset positions when scrolling away
+        firstImage2.style.transition = 'left 0.5s ease'
+        firstImage2.style.left = '20%' // Original position
+
+        secondImage2.style.transition = 'left 0.5s ease'
+        secondImage2.style.left = '50%' // Original position
       }
     })
   }

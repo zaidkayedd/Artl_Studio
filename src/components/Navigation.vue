@@ -18,15 +18,15 @@
       <transition name="fade-slide">
         <div
           v-if="showMenu"
-          class="flex xl:hidden flex-col items-center justify-center w-full max-w-[400px] bg-[#686EDA] absolute top-[7.3rem] right-0 rounded-[20px] p-2"
+          class="Menu z-10 backdrop-blur-lg flex xl:hidden flex-col items-start justify-center w-full max-w-[400px]  absolute top-[7.3rem] right-0 rounded-[6px] p-2"
         >
-          <div class="flex flex-col items-start justify-start">
+          <div class="flex flex-col items-start justify-start px-4   w-full max-w-[400px]">
             <router-link
               v-for="link in links"
               :key="link.name"
               :to="link.path"
               @click="setActiveLink(link.name)"
-              class="font-inter font-[600] text-[20px] text-[#ffffff] cursor-pointer relative p-2 hover:bg-[#163654] rounded-[10px] px-4"
+              class="w-full font-inter font-[600] text-[20px] py-3  text-[#ffffff] cursor-pointer relative  scale-100 hover:scale-105      border-b-[0.15px] border-b-[#FFFFFF80]"
             >
               {{ link.name }}
             </router-link>
@@ -36,7 +36,7 @@
       <div
         class="right hidden xl:flex items-center 2xl:justify-center justify-end gap-[1rem] 2xl:gap-[2rem] w-[800px] 1300:w-[900px]"
       >
-        <RouterLink to="/" class="font-Onset text-[16px] 2xl:text-[20px] font-[400] text-white"
+        <RouterLink to="/" class="font-Onset text-[16px] 2xl:text-[20px] font-[400] text-white "
           >Home</RouterLink
         >
         <RouterLink
@@ -69,7 +69,7 @@
         >
         <RouterLink to="/contact-us">
           <button
-            class="font-Onset text-[16px] 2xl:text-[20px] font-[400] text-white w-[100px] 2xl:w-[130px] bg-[#686EDA] h-[22px] 2xl:h-[32px] flex items-center justify-center rounded-[4px] border-none"
+            class="font-Onset text-[16px] 2xl:text-[20px] font-[400] text-white w-[100px] 2xl:w-[130px] bg-[#686EDA] h-[22px] 2xl:h-[37px] flex items-center justify-center rounded-[4px] border-none "
           >
             Contact Us
           </button>
@@ -95,6 +95,7 @@ export default {
         { name: 'Services', path: '/services' },
         { name: 'Technologies', path: '/technologies' },
         { name: 'Process', path: '/process' },
+        { name: 'FAQ', path: '/faq' },
         { name: 'Contact US', path: '/contact-us' },
       ],
     }
@@ -176,5 +177,9 @@ export default {
     rgba(104, 110, 218, 0.4) 100%
   );
   opacity: 40%;
+}
+.Menu{
+  background: linear-gradient(180deg, rgba(21, 243, 175, 0.14) 0%, rgba(104, 110, 218, 0.4) 100%);
+
 }
 </style>

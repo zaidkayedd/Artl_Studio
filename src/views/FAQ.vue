@@ -1,7 +1,7 @@
 <template>
   <div class="flex items-center justify-center flex-col gap-[5rem]">
     <div
-      class="gridContainer w-full h-full max-w-[1500px] flex items-center justify-center flex-col gap-[20rem]"
+      class="gridContainer w-full h-full max-w-[1500px] flex items-center justify-center flex-col gap-[20rem] translate-y-[-7rem] sm:translate-y-0"
     >
       <div class="flex items-center justify-center">
         <div class="flex items-center justify-center flex-col gap-10">
@@ -23,9 +23,9 @@
               IT Service delivery
             </span>
           </div>
-          <div class="flex items-center justify-center flex-col">
+          <div class="hidden sm:flex items-center justify-center flex-col">
             <span
-              class="text-[8px] sm:text-[12px] lg:text-[16px] xl:text-[20px] text-white font-[500] font-Onset"
+              class="text-[7px] sm:text-[12px] lg:text-[16px] xl:text-[20px] text-white font-[500] font-Onset"
               >Welcome to our FAQ page. If you are curious about Artl Studio’s background,
               processes, services, or approaches,</span
             >
@@ -34,11 +34,22 @@
               >you are in the right place</span
             >
           </div>
+          <div class="flex sm:hidden items-center justify-center flex-col">
+            <span
+              class="text-[10px] lg:text-[16px] xl:text-[20px] text-white font-[500] font-Onset"
+              >Welcome to our FAQ page. If you are curious about Artl Studio’s background,
+              </span
+            >
+            <span
+              class="text-[10px] lg:text-[16px] xl:text-[20px] text-white font-[500] font-Onset"
+              >processes, services, or approaches, you are in the right place</span
+            >
+          </div>
         </div>
       </div>
     </div>
 
-    <div class="flex items-center justify-center flex-col gap-8 mt-64">
+    <div class="flex items-center justify-center flex-col gap-8 mt-4 md:mt-20 sm:mt-64">
       <span class="text-[20px] sm:text-[30px] lg:text-[50px] text-white font-[700] font-Onset"
         >Our Frequently Asked Questions List</span
       >

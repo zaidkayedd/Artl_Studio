@@ -7,38 +7,54 @@
         <div class="flex items-center justify-center flex-col gap-10">
           <div class="flex items-center justify-center flex-col">
             <span
-              class="text-[13px] sm:text-[20px] lg:text-[30px] 2xl:text-[50px] xl:text-[40px] text-white font-[700] font-Onset flex items-center justify-center gap-4"
+              class="text-[12px] sm:text-[20px] lg:text-[30px] 2xl:text-[50px] xl:text-[40px] text-white font-[700] font-Onset flex items-center justify-center  gap-1  lg:gap-4"
             >
               Our
               <div
-                class="flex items-center justify-center w-[90px] sm:w-[140px] lg:w-[220px] 2xl:w-[330px] xl:w-[270px] h-[29px] sm:h-[39px] lg:h-[49px] 2xl:h-[69px] xl:h-[59px] bg-[#686EDA80] font-[700]"
+                class="flex items-center justify-center w-[80px] sm:w-[135px] lg:w-[220px] 2xl:w-[330px] xl:w-[270px] h-[20px] sm:h-[30px] lg:h-[49px] 2xl:h-[69px] xl:h-[59px] bg-[#686EDA80] font-[700]"
               >
                 pricing model
               </div>
               is designed to be transparent and flexible,
             </span>
             <span
-              class="text-[13px] sm:text-[20px] lg:text-[30px] 2xl:text-[50px] xl:text-[40px] text-white font-[700] font-Onset"
+              class="text-[12px] sm:text-[20px] lg:text-[30px] 2xl:text-[50px] xl:text-[40px] text-white font-[700] font-Onset"
             >
               ensuring you get the best value for your investment at every
             </span>
             <span
-              class="text-[13px] sm:text-[20px] lg:text-[30px] 2xl:text-[50px] xl:text-[40px] text-white font-[700] font-Onset"
+              class="text-[12px] sm:text-[20px] lg:text-[30px] 2xl:text-[50px] xl:text-[40px] text-white font-[700] font-Onset"
             >
               stage of your project
             </span>
           </div>
-          <div class="flex items-center justify-center flex-col">
+          <div class="hidden sm:flex items-center justify-center flex-col">
             <span
-              class="text-[7px] sm:text-[9px] lg:text-[13px] 2xl:text-[20px] xl:text-[16px] text-white font-[500] font-Onset"
+              class="text-[6px] sm:text-[9px] lg:text-[13px] 2xl:text-[20px] xl:text-[16px] text-white font-[500] font-Onset"
             >
               At Artl Studio, our pricing model is thoughtfully designed to be transparent and
               flexible. By offering tailored solutions
             </span>
             <span
-              class="text-[7px] sm:text-[9px] lg:text-[13px] 2xl:text-[20px] xl:text-[16px] text-white font-[500] font-Onset"
+              class="text-[6px] sm:text-[9px] lg:text-[13px] 2xl:text-[20px] xl:text-[16px] text-white font-[500] font-Onset"
             >
               and clear cost structures, we ensure you receive maximum value, aligning perfectly
+              with your project needs and budget.
+            </span>
+          </div>
+          <div class="flex sm:hidden items-center justify-center flex-col">
+            <span
+              class="text-[9px] lg:text-[13px] 2xl:text-[20px] xl:text-[16px] text-white font-[500] font-Onset"
+            >
+              At Artl Studio, our pricing model is thoughtfully designed to be transparent and flexible.
+          
+            </span>
+            <span    class="text-[9px] lg:text-[13px] 2xl:text-[20px] xl:text-[16px] text-white font-[500] font-Onset">     By offering tailored solutions and clear cost structures, we ensure you receive</span>
+            <span
+              class="text-[9px] lg:text-[13px] 2xl:text-[20px] xl:text-[16px] text-white font-[500] font-Onset"
+            >
+             maximum value,
+            aligning perfectly
               with your project needs and budget.
             </span>
           </div>
@@ -46,7 +62,7 @@
       </div>
     </div>
 
-    <div class="flex items-center justify-center flex-col gap-8 mt-96">
+    <div class="flex items-center justify-center flex-col gap-8 mt-60 sm:mt-96">
       <span class="text-[14px] sm:text-[30px] lg:text-[50px] text-white font-[700] font-Onset"
         >What services do you need?</span
       >

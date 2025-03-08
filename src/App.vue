@@ -2,19 +2,47 @@
 import { RouterView } from 'vue-router'
 import Navigation from './components/Navigation.vue'
 import Footer from './components/Footer.vue'
+import {  onMounted, ref } from "vue";
+import { useRouter } from "vue-router"
+import LoadingPage from './components/LoadingPage.vue';
+const isLoaded = ref(false);
+
+const router = useRouter();
+
+onMounted(() => {
+  setTimeout(() => {
+      isLoaded.value = true;
+
+  }, 5000);
+});
+
+router.beforeEach((to, from, next) => {
+  isLoaded.value = false;
+  next();
+});
+
+router.afterEach(() => {
+  setTimeout(() => {
+    isLoaded.value = true;
+  }, 2000);
+});
 </script>
 
+
 <template>
-  <div class="AllPage">
+  <div class="AllPage" v-if="isLoaded">
     <div class="header"><Navigation /></div>
 
     <div class="pages">
       <div class="page">
         <RouterView />
-        .
+        
       </div>
     </div>
     <Footer />
+  </div>
+  <div class="flex items-center justify-center h-[100vh]" v-else>
+   <LoadingPage></LoadingPage>
   </div>
 </template>
 

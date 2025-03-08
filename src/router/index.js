@@ -5,6 +5,8 @@ import Technologies from '@/views/Technologies.vue'
 import Process from '@/views/Process.vue'
 import Pricing from '@/views/Pricing.vue'
 import FAQ from '@/views/FAQ.vue'
+import ContactUs from '@/views/ContactUs.vue'
+// import LoadingPage from '@/components/LoadingPage.vue'
 
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
@@ -47,6 +49,16 @@ const router = createRouter({
       name: 'faq',
       component: FAQ,
     },
+    {
+      path: '/contact-us',
+      name: 'contact-us',
+      component: ContactUs,
+    },
+    // {
+    //   path: '/loadingPage',
+    //   name: 'loadingPage',
+    //   component: LoadingPage,
+    // },
   ],
 })
 
