@@ -16,7 +16,9 @@
               </div>
               excitement around your vision
             </span>
-            <span class="text-[18px] sm:text-[25px] md:text-[40px] xl:text-[60px] text-white font-[700] font-Onset">
+            <span
+              class="text-[18px] sm:text-[25px] md:text-[40px] xl:text-[60px] text-white font-[700] font-Onset"
+            >
               and accelerating your growth.
             </span>
           </div>
@@ -30,34 +32,42 @@
               exceptional experiences for your audience.</span
             >
           </div>
-          <div class="flex xl:hidden  items-center justify-center flex-col">
-            <span class="text-[8px] sm:text-[12px] md:text-[16px] lg:text-[20px] text-white font-[500] font-Onset"
-              >At Artl Studio, we understand that growth requires a multifaceted approach. As a full-service agency,
-              </span
+          <div class="flex xl:hidden items-center justify-center flex-col">
+            <span
+              class="text-[8px] sm:text-[12px] md:text-[16px] lg:text-[20px] text-white font-[500] font-Onset"
+              >At Artl Studio, we understand that growth requires a multifaceted approach. As a
+              full-service agency,
+            </span>
+            <span
+              class="text-[8px] sm:text-[12px] md:text-[16px] lg:text-[20px] text-white font-[500] font-Onset"
             >
-            <span class="text-[8px] sm:text-[12px] md:text-[16px] lg:text-[20px] text-white font-[500] font-Onset"
-              > we are dedicated to creating tailored solutions that inspire excitement and deliver
-              </span
+              we are dedicated to creating tailored solutions that inspire excitement and deliver
+            </span>
+            <span
+              class="text-[8px] sm:text-[12px] md:text-[16px] lg:text-[20px] text-white font-[500] font-Onset"
+              >exceptional experiences for your audience.</span
             >
-            <span class="text-[8px] sm:text-[12px] md:text-[16px] lg:text-[20px] text-white font-[500] font-Onset">exceptional experiences for your audience.</span>
           </div>
         </div>
       </div>
     </div>
     <div class="flex items-center justify-center flex-col gap-4 mt-96">
-      <span class="text-[20px] md:text-[30px] xl:text-[50px] text-white font-[700] font-Onset">From Concept to Market</span>
-      <span class="hidden  xl:flex text-[22px] font-[500] font-Onset text-white"
+      <span class="text-[20px] md:text-[30px] xl:text-[50px] text-white font-[700] font-Onset"
+        >From Concept to Market</span
+      >
+      <span class="hidden xl:flex text-[22px] font-[500] font-Onset text-white"
         >Got an idea? We’re here to bring your vision to life with expert, multi-disciplinary
         execution you can trust.</span
       >
-  
-      <div class="flex xl:hidden  items-center justify-center flex-col">
+
+      <div class="flex xl:hidden items-center justify-center flex-col">
         <span class="text-[12px] sm:text-[17px] md:text-[22px] font-[500] font-Onset text-white"
-        >Got an idea? We’re here to bring your vision to life with expert, </span
-      >
-      <span class="text-[12px] sm:text-[17px] md:text-[22px] font-[500] font-Onset text-white">multi-disciplinary
-        execution you can trust.</span>
-          </div>
+          >Got an idea? We’re here to bring your vision to life with expert,
+        </span>
+        <span class="text-[12px] sm:text-[17px] md:text-[22px] font-[500] font-Onset text-white"
+          >multi-disciplinary execution you can trust.</span
+        >
+      </div>
       <div class="boxes grid grid-cols-1 2xl:grid-cols-2 gap-4">
         <li>
           <div class="front">
@@ -264,36 +274,40 @@
 
     <div class="mt-24 flex flex-col items-center justify-center">
       <div class="Phone relative">
-        <img class="z-[-1]" src="../assets/imgs/Services/Backk.svg" />
         <img
-          class="first-image hidden lg:flex top-[-20%] lg:top-[-10%] xl:top-[40%] left-[20%] absolute z-10"
-          src="../assets/imgs/Services/SmallPhone.png"
+          class="z-[-1] mb-[10rem] sm:mb-[5rem] md:mb-0"
+          src="../assets/imgs/Services/Backk.svg"
         />
         <img
-          class="second-image hidden lg:flex  top-[-55%] lg:top-[-30%] xl:top-[10%] left-[50%] absolute"
+          class="hidden lg:flex absolute top-[-20%] xl:top-0 left-[40%]"
           src="../assets/imgs/Services/Phone.png"
         />
         <img
-          class="first-image1 lg:hidden md:flex hidden  top-[20%] left-[20%] absolute z-10"
-          src="../assets/imgs/Services/SmallPhone1.png"
+          class="hidden lg:flex absolute top-[5%] xl:top-[25%] left-[38%]"
+          src="../assets/imgs/Services/SmallPhone.png"
         />
         <img
-          class="second-image1 lg:hidden md:flex hidden  top-[-20%]  left-[50%] absolute"
+          class="lg:hidden md:flex hidden absolute top-[-20%] left-[40%]"
           src="../assets/imgs/Services/Phone1.png"
         />
         <img
-          class="first-image2 md:hidden flex  top-[-20%] 450:top-[0%] 550:top-[10%] left-[20%] absolute z-10"
-          src="../assets/imgs/Services/SmallPhone2.png"
+          class="lg:hidden md:flex hidden absolute top-[5%] left-[38%]"
+          src="../assets/imgs/Services/SmallPhone1.png"
         />
         <img
-          class="second-image2 md:hidden flex  top-[-50%] 450:top-[-30%] 550:top-[-10%]  left-[50%] absolute"
+          class="md:hidden flex absolute top-[0%] left-[30%] sm:left-[40%]"
           src="../assets/imgs/Services/Phone2.png"
         />
+        <img
+          class="md:hidden flex absolute top-[20%] left-[28%] sm:left-[38%]"
+          src="../assets/imgs/Services/SmallPhone2.png"
+        />
       </div>
-      <!-- <div class="scroll-trigger" style="height: 100px"></div> -->
+
       <div class="flex flex-col items-center justify-center gap-8">
         <div class="flex items-center justify-center flex-col">
-          <span class="text-[15px] sm:text-[20px] md:text-[30px] xl:text-[50px] font-Onset font-[800] text-white"
+          <span
+            class="text-[15px] sm:text-[20px] md:text-[30px] xl:text-[50px] font-Onset font-[800] text-white"
             >Are you Ready to Get Started with your Journey?</span
           >
           <span class="hidden xl:flex text-white text-[21px] font-[500] font-Onset"
@@ -301,9 +315,12 @@
             within the next few hours.</span
           >
           <div class="flex xl:hidden items-center justify-center flex-col">
-            <span  class="text-white text-[12px] sm:text-[17px] md:text-[21px] font-[500] font-Onset">Once you've completed the form, our manager will send you an email</span>
-            <span  class="text-white text-[12px] sm:text-[17px] md:text-[21px] font-[500] font-Onset">with the information
-              within the next few hours.</span>
+            <span class="text-white text-[12px] sm:text-[17px] md:text-[21px] font-[500] font-Onset"
+              >Once you've completed the form, our manager will send you an email</span
+            >
+            <span class="text-white text-[12px] sm:text-[17px] md:text-[21px] font-[500] font-Onset"
+              >with the information within the next few hours.</span
+            >
           </div>
         </div>
         <button
@@ -319,10 +336,12 @@
       <div
         class="flex flex-col item-start justify-center w-[200px] sm:w-[405px] lg:w-[1500px] md:w-[485px] z-50"
       >
-        <span class="font-Onset font-[800] text-white text-[20px] sm:text-[35px] lg:text-[64px] md:text-[45px]"
+        <span
+          class="font-Onset font-[800] text-white text-[20px] sm:text-[35px] lg:text-[64px] md:text-[45px]"
           >Let’s Talk</span
         >
-        <span class="font-Onset font-[500] text-white text-[6px] sm:text-[12px] lg:text-[20px] md:text-[16px]"
+        <span
+          class="font-Onset font-[500] text-white text-[6px] sm:text-[12px] lg:text-[20px] md:text-[16px]"
           >Have some big idea or brand to develop and need help?<br />
           Then reach out we'd love to hear about your project<br />
           and provide help</span
@@ -366,13 +385,17 @@
         </button>
       </div>
     </div>
-    <div class="letsTalkBox1 w-[384px] h-[862px] flex md:hidden items-center justify-center flex-col gap-[5rem]">
+    <div
+      class="letsTalkBox1 w-[384px] h-[862px] flex md:hidden items-center justify-center flex-col gap-[5rem]"
+    >
       <div class="flex items-center justify-center flex-col">
-        <span class=" font-Onset text-[50px] text-white font-[800]">Let’s Talk</span>
-        <div class="flex items-center justify-center flex-col font-Onset text-[14px] text-white font-500">
+        <span class="font-Onset text-[50px] text-white font-[800]">Let’s Talk</span>
+        <div
+          class="flex items-center justify-center flex-col font-Onset text-[14px] text-white font-500"
+        >
           <span>Have some big idea or brand to develop and</span>
           <span>need help? Then reach out we'd love to hear</span>
-          <span>about your project  and provide help</span>
+          <span>about your project and provide help</span>
         </div>
       </div>
       <div
@@ -510,10 +533,10 @@ li {
     transform: rotateY(0);
   }
 }
-@media (max-width: 750px){
-  li{
+@media (max-width: 750px) {
+  li {
     width: 350px;
-  height: 135px; 
+    height: 135px;
   }
 }
 li:before {
@@ -567,7 +590,7 @@ li:before {
   background-image: url(../assets/imgs/Home/Vector1.png);
   background-repeat: no-repeat;
   background-size: contain;
-background-position-y:100% ;
+  background-position-y: 100%;
   z-index: 1;
 }
 .letsTalkBox1::before {
@@ -640,106 +663,4 @@ export default {
     },
   },
 }
-document.addEventListener('DOMContentLoaded', function () {
-  const firstImage = document.querySelector('.first-image')
-  const secondImage = document.querySelector('.second-image')
-
-  const options = {
-    root: null,
-    rootMargin: '0px',
-    threshold: 0.1,
-  }
-
-  const callback = (entries) => {
-    entries.forEach((entry) => {
-      if (entry.isIntersecting) {
-        // Animate first image to new position
-        firstImage.style.transition = 'left 0.5s ease'
-        firstImage.style.left = '38%'
-
-        // Animate second image to new position
-        secondImage.style.transition = 'left 0.5s ease'
-        secondImage.style.left = '40%'
-      } else {
-        // Reset positions when scrolling away
-        firstImage.style.transition = 'left 0.5s ease'
-        firstImage.style.left = '20%' // Original position
-
-        secondImage.style.transition = 'left 0.5s ease'
-        secondImage.style.left = '50%' // Original position
-      }
-    })
-  }
-
-  const observer = new IntersectionObserver(callback, options)
-  observer.observe(document.querySelector('.Phone'))
-})
-document.addEventListener('DOMContentLoaded', function () {
-  const firstImage1 = document.querySelector('.first-image1')
-  const secondImage1 = document.querySelector('.second-image1')
-
-  const options = {
-    root: null,
-    rootMargin: '0px',
-    threshold: 0.1,
-  }
-
-  const callback = (entries) => {
-    entries.forEach((entry) => {
-      if (entry.isIntersecting) {
-        // Animate first image to new position
-        firstImage1.style.transition = 'left 0.5s ease'
-        firstImage1.style.left = '38%'
-
-        // Animate second image to new position
-        secondImage1.style.transition = 'left 0.5s ease'
-        secondImage1.style.left = '40%'
-      } else {
-        // Reset positions when scrolling away
-        firstImage1.style.transition = 'left 0.5s ease'
-        firstImage1.style.left = '20%' // Original position
-
-        secondImage1.style.transition = 'left 0.5s ease'
-        secondImage1.style.left = '50%' // Original position
-      }
-    })
-  }
-
-  const observer = new IntersectionObserver(callback, options)
-  observer.observe(document.querySelector('.Phone'))
-})
-document.addEventListener('DOMContentLoaded', function () {
-  const firstImage2 = document.querySelector('.first-image2')
-  const secondImage2 = document.querySelector('.second-image2')
-
-  const options = {
-    root: null,
-    rootMargin: '0px',
-    threshold: 0.1,
-  }
-
-  const callback = (entries) => {
-    entries.forEach((entry) => {
-      if (entry.isIntersecting) {
-        // Animate first image to new position
-        firstImage2.style.transition = 'left 0.5s ease'
-        firstImage2.style.left = '38%'
-
-        // Animate second image to new position
-        secondImage2.style.transition = 'left 0.5s ease'
-        secondImage2.style.left = '40%'
-      } else {
-        // Reset positions when scrolling away
-        firstImage2.style.transition = 'left 0.5s ease'
-        firstImage2.style.left = '20%' // Original position
-
-        secondImage2.style.transition = 'left 0.5s ease'
-        secondImage2.style.left = '50%' // Original position
-      }
-    })
-  }
-
-  const observer = new IntersectionObserver(callback, options)
-  observer.observe(document.querySelector('.Phone'))
-})
 </script>
