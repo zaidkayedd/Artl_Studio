@@ -279,27 +279,27 @@
           src="../assets/imgs/Services/Backk.svg"
         />
         <img
-          class="hidden lg:flex absolute top-[-20%] xl:top-0 left-[40%]"
+          class="hidden lg:flex absolute top-[-20%] xl:top-0 left-[40%] phone-image"
           src="../assets/imgs/Services/Phone.png"
         />
         <img
-          class="hidden lg:flex absolute top-[5%] xl:top-[25%] left-[38%]"
+          class="hidden lg:flex absolute top-[5%] xl:top-[25%] left-[38%] phone-image"
           src="../assets/imgs/Services/SmallPhone.png"
         />
         <img
-          class="lg:hidden md:flex hidden absolute top-[-20%] left-[40%]"
+          class="lg:hidden md:flex hidden absolute top-[-20%] left-[40%] phone-image"
           src="../assets/imgs/Services/Phone1.png"
         />
         <img
-          class="lg:hidden md:flex hidden absolute top-[5%] left-[38%]"
+          class="lg:hidden md:flex hidden absolute top-[5%] left-[38%] phone-image"
           src="../assets/imgs/Services/SmallPhone1.png"
         />
         <img
-          class="md:hidden flex absolute top-[0%] left-[30%] sm:left-[40%]"
+          class="md:hidden flex absolute top-[0%] left-[30%] sm:left-[40%] phone-image"
           src="../assets/imgs/Services/Phone2.png"
         />
         <img
-          class="md:hidden flex absolute top-[20%] left-[28%] sm:left-[38%]"
+          class="md:hidden flex absolute top-[20%] left-[28%] sm:left-[38%] phone-image"
           src="../assets/imgs/Services/SmallPhone2.png"
         />
       </div>
@@ -440,6 +440,14 @@
 </template>
 
 <style scoped>
+.Phone {
+  /* Add this to make the Phone div a stacking context */
+  transform-style: preserve-3d;
+}
+
+.phone-image {
+  transition: transform 0.3s ease; /* Smooth transition for scaling */
+}
 .box {
   position: relative;
 }
@@ -613,6 +621,7 @@ li:before {
 }
 </style>
 <script>
+import { ref, onMounted, onBeforeUnmount } from 'vue'
 export default {
   data() {
     return {
@@ -661,6 +670,57 @@ export default {
         })
       }
     },
+    scaleImages() {
+      const phoneDiv = document.querySelector('.Phone')
+      const images = document.querySelectorAll('.phone-image')
+
+      if (!phoneDiv) return
+
+      const rect = phoneDiv.getBoundingClientRect()
+      const windowHeight = window.innerHeight
+
+      // Check if the phone div is in the viewport
+      if (rect.top < windowHeight && rect.bottom > 0) {
+        // Calculate the scale factor based on the div's position in the viewport
+        const centerOfDiv = rect.top + rect.height / 2
+        const distanceToCenter = Math.abs(windowHeight / 2 - centerOfDiv)
+        let scale = 1 + (1 - distanceToCenter / (windowHeight / 2)) * 0.5 // Adjust the 0.5 to control the scaling speed
+
+        // Apply a maximum scale
+        scale = Math.min(scale, 1.5)
+
+        images.forEach((img) => {
+          img.style.transform = `scale(${scale})`
+        })
+      } else {
+        // Reset scale if not in viewport
+        images.forEach((img) => {
+          img.style.transform = 'scale(1)'
+        })
+      }
+    },
+  },
+  setup() {
+    const scrollPosition = ref(0)
+
+    const handleScroll = () => {
+      scrollPosition.value = window.scrollY
+    }
+
+    onMounted(() => {
+      window.addEventListener('scroll', handleScroll)
+    })
+
+    onBeforeUnmount(() => {
+      window.removeEventListener('scroll', handleScroll)
+    })
+
+    return {
+      scrollPosition,
+    }
+  },
+  updated() {
+    this.scaleImages()
   },
 }
 </script>
