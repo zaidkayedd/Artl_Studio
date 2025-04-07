@@ -109,7 +109,7 @@
           <div class="front">
             <div class="flex items-center justify-center flex-col gap-4">
               <img src="../assets/imgs/About/First.png" />
-              <span class="text-white text-[20px] font-[700] font-Onset"
+              <span class="text-white text-[15px] sm:text-[20px] font-[700] font-Onset"
                 >Engaged Requirements Engineering</span
               >
             </div>
@@ -134,8 +134,8 @@
           <div class="front">
             <div class="flex items-center justify-center flex-col gap-4">
               <img src="../assets/imgs/About/Second.png" />
-              <span class="text-white text-[20px] font-[700] font-Onset"
-                >Engaged Requirements Engineering</span
+              <span class="text-white text-[15px] sm:text-[20px] font-[700] font-Onset"
+                >Accurate and Realistic Cost Estimation</span
               >
             </div>
           </div>
@@ -159,8 +159,8 @@
           <div class="front">
             <div class="flex items-center justify-center flex-col gap-4">
               <img src="../assets/imgs/About/Third.png" />
-              <span class="text-white text-[20px] font-[700] font-Onset"
-                >Engaged Requirements Engineering</span
+              <span class="text-white text-[15px] sm:text-[20px] font-[700] font-Onset"
+                >Dynamic and Controllable Project Scoping</span
               >
             </div>
           </div>
@@ -185,7 +185,7 @@
             <div class="flex items-center justify-center flex-col gap-4">
               <img src="../assets/imgs/About/Fourth.png" />
               <span class="text-white text-[15px] sm:text-[20px] font-[700] font-Onset"
-                >Engaged Requirements Engineering</span
+                >Comprehensive Risk Management</span
               >
             </div>
           </div>
@@ -210,7 +210,7 @@
             <div class="flex items-center justify-center flex-col gap-4">
               <img src="../assets/imgs/About/Fifth.png" />
               <span class="text-white text-[15px] sm:text-[20px] font-[700] font-Onset"
-                >Engaged Requirements Engineering</span
+                >Agile Delivery</span
               >
             </div>
           </div>
@@ -235,7 +235,7 @@
             <div class="flex items-center justify-center flex-col gap-4">
               <img src="../assets/imgs/About/Sixth.png" />
               <span class="text-white text-[15px] sm:text-[20px] font-[700] font-Onset"
-                >Engaged Requirements Engineering</span
+                >Prevention of Scope Creep</span
               >
             </div>
           </div>
@@ -260,7 +260,7 @@
             <div class="flex items-center justify-center flex-col gap-4">
               <img src="../assets/imgs/About/seventh.png" />
               <span class="text-white text-[15px] sm:text-[20px] font-[700] font-Onset"
-                >Engaged Requirements Engineering</span
+                >Budget Control</span
               >
             </div>
           </div>
@@ -284,8 +284,8 @@
           <div class="front">
             <div class="flex items-center justify-center flex-col gap-4">
               <img src="../assets/imgs/About/eight.png" />
-              <span class="text-white text-[20px] font-[700] font-Onset"
-                >Engaged Requirements Engineering</span
+              <span class="text-white text-[15px] sm:text-[20px] font-[700] font-Onset"
+                >Commitment to Deadlines</span
               >
             </div>
           </div>
@@ -310,7 +310,7 @@
             <div class="flex items-center justify-center flex-col gap-4">
               <img src="../assets/imgs/About/nineth.png" />
               <span class="text-white text-[15px] sm:text-[20px] font-[700] font-Onset"
-                >Engaged Requirements Engineering</span
+                >Streamlined Team Collaboration</span
               >
             </div>
           </div>
@@ -335,7 +335,7 @@
             <div class="flex items-center justify-center flex-col gap-4">
               <img src="../assets/imgs/About/tenth.png" />
               <span class="text-white text-[20px] font-[700] font-Onset"
-                >Engaged Requirements Engineering</span
+                >Transparent Reporting</span
               >
             </div>
           </div>
