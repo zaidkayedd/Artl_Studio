@@ -7,11 +7,11 @@
         <div class="flex items-center justify-center flex-col gap-10">
           <div class="flex items-center justify-center flex-col">
             <span
-              class="text-[12px] sm:text-[20px] lg:text-[30px] 2xl:text-[50px] xl:text-[40px] text-white font-[700] font-Onset flex items-center justify-center  gap-1  lg:gap-4"
+              class="text-[12px] sm:text-[20px] lg:text-[30px] 2xl:text-[50px] xl:text-[40px] text-white font-[700] font-Onset flex items-center justify-center gap-1 lg:gap-4"
             >
               Our
               <div
-                class="flex items-center justify-center w-[80px] sm:w-[135px] lg:w-[220px] 2xl:w-[330px] xl:w-[270px] h-[20px] sm:h-[30px] lg:h-[49px] 2xl:h-[69px] xl:h-[59px] bg-[#686EDA80] font-[700]"
+                class="flex items-center justify-center w-[90px] sm:w-[135px] lg:w-[220px] 2xl:w-[330px] xl:w-[270px] h-[20px] sm:h-[30px] lg:h-[49px] 2xl:h-[69px] xl:h-[59px] bg-[#686EDA80] font-[700]"
               >
                 pricing model
               </div>
@@ -46,16 +46,18 @@
             <span
               class="text-[9px] lg:text-[13px] 2xl:text-[20px] xl:text-[16px] text-white font-[500] font-Onset"
             >
-              At Artl Studio, our pricing model is thoughtfully designed to be transparent and flexible.
-          
+              At Artl Studio, our pricing model is thoughtfully designed to be transparent and
+              flexible.
             </span>
-            <span    class="text-[9px] lg:text-[13px] 2xl:text-[20px] xl:text-[16px] text-white font-[500] font-Onset">     By offering tailored solutions and clear cost structures, we ensure you receive</span>
             <span
               class="text-[9px] lg:text-[13px] 2xl:text-[20px] xl:text-[16px] text-white font-[500] font-Onset"
             >
-             maximum value,
-            aligning perfectly
-              with your project needs and budget.
+              By offering tailored solutions and clear cost structures, we ensure you receive</span
+            >
+            <span
+              class="text-[9px] lg:text-[13px] 2xl:text-[20px] xl:text-[16px] text-white font-[500] font-Onset"
+            >
+              maximum value, aligning perfectly with your project needs and budget.
             </span>
           </div>
         </div>
