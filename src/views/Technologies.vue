@@ -146,7 +146,7 @@
         <div
           class="smallBox flex items-center justify-center gap-4 w-[130px] 668:w-[200px] h-[60px] 668:h-[80px] rounded-sm"
         >
-          <img src="../assets/imgs/Technologies/Bootstrap.png" />
+          <img src="../assets/imgs/Technologies/BootStrap.png" />
           <span class="text-[12px] 668:text-[18px] font-[600] font-Onset text-white"
             >Bootstrap</span
           >
