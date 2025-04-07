@@ -184,7 +184,7 @@
           <div class="front">
             <div class="flex items-center justify-center flex-col gap-4">
               <img src="../assets/imgs/About/Fourth.png" />
-              <span class="text-white text-[20px] font-[700] font-Onset"
+              <span class="text-white text-[15px] sm:text-[20px] font-[700] font-Onset"
                 >Engaged Requirements Engineering</span
               >
             </div>
@@ -209,7 +209,7 @@
           <div class="front">
             <div class="flex items-center justify-center flex-col gap-4">
               <img src="../assets/imgs/About/Fifth.png" />
-              <span class="text-white text-[20px] font-[700] font-Onset"
+              <span class="text-white text-[15px] sm:text-[20px] font-[700] font-Onset"
                 >Engaged Requirements Engineering</span
               >
             </div>
@@ -234,7 +234,7 @@
           <div class="front">
             <div class="flex items-center justify-center flex-col gap-4">
               <img src="../assets/imgs/About/Sixth.png" />
-              <span class="text-white text-[20px] font-[700] font-Onset"
+              <span class="text-white text-[15px] sm:text-[20px] font-[700] font-Onset"
                 >Engaged Requirements Engineering</span
               >
             </div>
@@ -259,7 +259,7 @@
           <div class="front">
             <div class="flex items-center justify-center flex-col gap-4">
               <img src="../assets/imgs/About/seventh.png" />
-              <span class="text-white text-[20px] font-[700] font-Onset"
+              <span class="text-white text-[15px] sm:text-[20px] font-[700] font-Onset"
                 >Engaged Requirements Engineering</span
               >
             </div>
@@ -309,7 +309,7 @@
           <div class="front">
             <div class="flex items-center justify-center flex-col gap-4">
               <img src="../assets/imgs/About/nineth.png" />
-              <span class="text-white text-[20px] font-[700] font-Onset"
+              <span class="text-white text-[15px] sm:text-[20px] font-[700] font-Onset"
                 >Engaged Requirements Engineering</span
               >
             </div>
