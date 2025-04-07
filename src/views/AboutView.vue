@@ -39,15 +39,14 @@
               and timeline adherence, transparent collaboration, and consistently delivering<br />
               high-quality services.</span
             >
-            <div class="flex sm:hidden   items-center justify-center flex-col text-[12px] lg:text-[15px] xl:text-[20px] text-white font-[500] font-Onset">
+            <div
+              class="flex sm:hidden items-center justify-center flex-col text-[12px] lg:text-[15px] xl:text-[20px] text-white font-[500] font-Onset"
+            >
               <span>Established in 2022, Artl Studio LLC is a US-based IT consulting</span>
-              <span> and software
-                development company. We are  trusted by clients</span>
-                <span>  for ur commitment to budget
-                  and timeline adherence,</span>
-                  <span> transparent collaboration, and consistently 
-                    </span>
-                    <span>delivering high-quality services.</span>
+              <span> and software development company. We are trusted by clients</span>
+              <span> for ur commitment to budget and timeline adherence,</span>
+              <span> transparent collaboration, and consistently </span>
+              <span>delivering high-quality services.</span>
             </div>
           </div>
         </div>
@@ -269,7 +268,7 @@
         <li>
           <div class="front">
             <div class="flex items-center justify-center flex-col gap-4">
-              <img src="../assets/imgs/About/eigth.png" />
+              <img src="../assets/imgs/About/eight.png" />
               <span class="text-white text-[20px] font-[700] font-Onset"
                 >Engaged Requirements Engineering</span
               >
@@ -348,10 +347,12 @@
     </div>
     <div class="flex flex-col items-center justify-center gap-8 mt-6">
       <div class="flex items-center justify-center flex-col">
-        <span class="text-[10px] sm:text-[16px] lg:text-[30px] 2xl:text-[50px] font-Onset font-[800] text-white"
+        <span
+          class="text-[10px] sm:text-[16px] lg:text-[30px] 2xl:text-[50px] font-Onset font-[800] text-white"
           >Looking for a Partner to Support Your Business Growth</span
         >
-        <span class=" text-[10px] sm:text-[16px] lg:text-[30px] 2xl:text-[50px] font-Onset font-[800] text-white"
+        <span
+          class="text-[10px] sm:text-[16px] lg:text-[30px] 2xl:text-[50px] font-Onset font-[800] text-white"
           >or Monetize Your Idea?</span
         >
       </div>
