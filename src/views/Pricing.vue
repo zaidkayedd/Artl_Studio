@@ -90,11 +90,11 @@
 
     <div class="flex items-center justify-center flex-col gap-8 mt-20">
       <div class="flex items-center justify-center">
-        <span class="text-[25px] sm:text-[30px] lg:text-[50px] text-white font-[700] font-Onset"
+        <span class="text-[20px] sm:text-[30px] lg:text-[50px] text-white font-[700] font-Onset"
           >Do you have a certain budget?</span
         >
         <span
-          class="text-[15px] sm:text-[10px] lg:text-[14px] font-Onset font-[500] text-white opacity-50"
+          class="text-[10px] sm:text-[10px] lg:text-[14px] font-Onset font-[500] text-white opacity-50"
           >(Optional)</span
         >
       </div>
