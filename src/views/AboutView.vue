@@ -58,9 +58,9 @@
           >Our Mission</span
         >
         <div
-          class="flex flex-col items-center justify-center font-[500] font-Onset text-white text-[6.5px] sm:text-[10px] lg:text-[14px] xl:text-[20px] gap-4"
+          class="flex flex-col items-center justify-center font-[500] font-Onset text-white text-[8px] sm:text-[10px] lg:text-[14px] xl:text-[20px] gap-4"
         >
-          <div class="flex items-center justify-center flex-col">
+          <div class="hidden sm:flex items-center justify-center flex-col">
             <span
               >At Artl Studio, our top priority is achieving project goals, even in the face of time
               and budget
@@ -70,8 +70,15 @@
               successful realization.</span
             >
           </div>
-
-          <div class="flex items-center justify-center flex-col">
+          <div class="flex sm:hidden items-center justify-center flex-col">
+            <span>At Artl Studio, our top priority is achieving project goals, even in the </span>
+            <span>
+              face of time and budget constraints or evolving requirements. You define the
+              objectives,</span
+            >
+            <span> and we ensure their successful realization.</span>
+          </div>
+          <div class="hidden sm:flex items-center justify-center flex-col">
             <span
               >Unlike many in the industry who confuse project administration with true project
               management,</span
@@ -80,6 +87,14 @@
               Artl Studio delivers authentic project management. We are committed to driving project
               success for our clients,</span
             >
+            <span> regardless of the challenges.</span>
+          </div>
+          <div class="flex sm:hidden items-center justify-center flex-col">
+            <span>Unlike many in the industry who confuse project administration with </span>
+            <span>
+              true project management, Artl Studio delivers authentic project management.</span
+            >
+            <span> We are committed to driving project success for our clients, </span>
             <span> regardless of the challenges.</span>
           </div>
         </div>
