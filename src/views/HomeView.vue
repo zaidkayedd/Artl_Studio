@@ -3,7 +3,7 @@
     <div
       class="gridContainer w-full h-full max-w-[1500px] flex items-center justify-center flex-col gap-[10rem] sm:gap-[20rem] translate-y-[-7rem] sm:translate-y-0"
     >
-      <div class="flex items-center justify-center flex-col gap-[4.3rem]">
+      <div class="flex items-center justify-center flex-col gap-4 sm:gap-[4.3rem]">
         <span
           class="flex items-center justify-center gap-[1rem] font-Onset font-[700] text-[22px] sm:text-[40px] lg:text-[60px] md:text-[50px] text-white"
         >
