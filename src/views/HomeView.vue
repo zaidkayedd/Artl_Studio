@@ -1,5 +1,5 @@
 <template>
-  <div class="flex items-center justify-center flex-col gap-[5rem] ">
+  <div class="flex items-center justify-center flex-col gap-[5rem]">
     <div
       class="gridContainer w-full h-full max-w-[1500px] flex items-center justify-center flex-col gap-[10rem] sm:gap-[20rem] translate-y-[-7rem] sm:translate-y-0"
     >
@@ -40,14 +40,12 @@
           >
             <span
               >Welcome to Artl Studio, your trusted partner for IT solutions! We specialize in
-              delivering </span
-            >
+              delivering
+            </span>
             <span>
-              high-quality, tailored services
-              to meet your unique needs. Whether it's development, </span
-            >
-            <span> design, consulting, or beyond,
-              we’re here to provide exceptional </span>
+              high-quality, tailored services to meet your unique needs. Whether it's development,
+            </span>
+            <span> design, consulting, or beyond, we’re here to provide exceptional </span>
             <span>solutions for your success.</span>
           </div>
         </div>
@@ -56,7 +54,8 @@
       <div
         class="box flex flex-col items-center justify-center w-[350px] sm:w-[600px] 2xl:w-[1418px] xl:w-[1150px] lg:w-[1000px] md:w-[700px] h-[200px] sm:h-[280px] lg:h-[375px] md:h-[308px] gap-[2rem]"
       >
-        <span class="font-Onset font-[700] text-[20px] sm:text-[30px] lg:text-[50px] md:text-[40px] text-white"
+        <span
+          class="font-Onset font-[700] text-[20px] sm:text-[30px] lg:text-[50px] md:text-[40px] text-white"
           >How we enable success</span
         >
         <div
@@ -75,16 +74,10 @@
         <div
           class="flex sm:hidden flex-col items-center justify-center font-[500] font-Onset text-white text-[9px] xl:text-[20px] lg:text-[16px] md:text-[12px]"
         >
-          <span
-            >Our top priority is to exceed client expectations by combining exceptional
-           
-          </span>
-          <span
-            > technical expertise, professionalism, and transparency. We are dedicated
-          </span>
-          <span>   to consistently  delivering innovative, high-quality technology solutions
-            </span>
-            <span>   that drives satisfaction and success to our clients.</span>
+          <span>Our top priority is to exceed client expectations by combining exceptional </span>
+          <span> technical expertise, professionalism, and transparency. We are dedicated </span>
+          <span> to consistently delivering innovative, high-quality technology solutions </span>
+          <span> that drives satisfaction and success to our clients.</span>
         </div>
         <button
           class="z-10 flex items-center justify-center w-full max-w-[150px] lg:max-w-[400px] md:max-w-[270px] h-[40px] rounded-[4px] bg-[#7177EC] font-[600] font-Onset text-[12px] lg:text-[25px] md:text-[20px] text-white"
@@ -97,7 +90,9 @@
       <div
         class="smallBox flex flex-col items-center justify-center w-[350px] sm:w-[600px] lg:w-[460px] md:w-[700px] h-[200px] sm:h-[270px] lg:h-[350px] md:h-[308px] rounded-[4px] gap-[2rem] px-[1rem]"
       >
-        <span class="font-Onset font-[700] text-white text-[16px] sm:text-[25px]">Exceptional Performance:</span>
+        <span class="font-Onset font-[700] text-white text-[16px] sm:text-[25px]"
+          >Exceptional Performance:</span
+        >
         <span class="hidden lg:flex font-Onset font-[400] text-[16px] text-white"
           >Experience outstanding performance, robust structure, and expertly crafted website code
           with our services. Our websites are designed for lightning-fast loading speeds and provide
@@ -123,21 +118,12 @@
         <div
           class="flex sm:hidden items-center justify-center lg:items-start flex-col font-Onset font-[400] text-[9px] md:text-[15px] text-white w-[700px] lg:w-full"
         >
-          <span
-            >Experience outstanding performance, robust structure, and expertly crafted </span
-          >
+          <span>Experience outstanding performance, robust structure, and expertly crafted </span>
           <span>
-            website code
-            with our
-            services. Our websites are designed for lightning-fast </span
-          >
-          <span
-            > loading speeds and provide
-            seamless user
-            experiences on all devices,  </span
-          >
-          <span>powered by advanced performance optimization
-            techniques.</span>
+            website code with our services. Our websites are designed for lightning-fast
+          </span>
+          <span> loading speeds and provide seamless user experiences on all devices, </span>
+          <span>powered by advanced performance optimization techniques.</span>
         </div>
         <button
           class="z-10 max-w-[150px] sm:max-w-[210px] lg:max-w-[410px] h-[36px] w-full flex items-center justify-center rounded-[4px] bg-[#7177EC] font-Onset font-[600] text-[16px] sm:text-[20px] text-white"
@@ -148,47 +134,41 @@
       <div
         class="smallBox flex flex-col items-center justify-center w-[350px] sm:w-[600px] lg:w-[460px] md:w-[700px] h-[200px] sm:h-[270px] lg:h-[350px] md:h-[308px] rounded-[4px] gap-[2rem] px-[1rem]"
       >
-        <span class="font-Onset font-[700] text-white text-[16px] sm:text-[25px]">Exceptional Performance:</span>
+        <span class="font-Onset font-[700] text-white text-[16px] sm:text-[25px]"
+          >Clean and Contemporary Design:</span
+        >
         <span class="hidden lg:flex font-Onset font-[400] text-[16px] text-white"
-          >Experience outstanding performance, robust structure, and expertly crafted website code
-          with our services. Our websites are designed for lightning-fast loading speeds and provide
-          seamless user experiences on all devices, powered by advanced performance optimization
-          techniques.</span
+          >Make a lasting impression with our sleek and contemporary website designs. We focus on
+          simplicity and sophistication, crafting visually stunning interfaces that showcase your
+          brand and content while delivering an intuitive user experience that engages and
+          captivates your audience.</span
         >
         <div
           class="hidden sm:flex lg:hidden items-center justify-center lg:items-start flex-col font-Onset font-[400] text-[12px] md:text-[15px] text-white w-[700px] lg:w-full"
         >
           <span
-            >Experience outstanding performance, robust structure, and expertly crafted website code
-            with our</span
+            >Make a lasting impression with our sleek and contemporary website designs. We focus
+            on</span
           >
           <span>
-            services. Our websites are designed for lightning-fast loading speeds and provide
-            seamless user</span
+            simplicity and sophistication, crafting visually stunning interfaces that showcase
+            your</span
           >
           <span
-            >experiences on all devices, powered by advanced performance optimization
-            techniques.</span
+            >experiences on all devices, powered by advanced performance optimization brand and
+            content while delivering an intuitive user experience that engages and</span
           >
+          <span> captivates your audience.</span>
         </div>
         <div
           class="flex sm:hidden items-center justify-center lg:items-start flex-col font-Onset font-[400] text-[9px] md:text-[15px] text-white w-[700px] lg:w-full"
         >
-          <span
-            >Experience outstanding performance, robust structure, and expertly crafted </span
-          >
+          <span>Experience outstanding performance, robust structure, and expertly crafted </span>
           <span>
-            website code
-            with our
-            services. Our websites are designed for lightning-fast </span
-          >
-          <span
-            > loading speeds and provide
-            seamless user
-            experiences on all devices,  </span
-          >
-          <span>powered by advanced performance optimization
-            techniques.</span>
+            website code with our services. Our websites are designed for lightning-fast
+          </span>
+          <span> loading speeds and provide seamless user experiences on all devices, </span>
+          <span>powered by advanced performance optimization techniques.</span>
         </div>
         <button
           class="z-10 max-w-[150px] sm:max-w-[210px] lg:max-w-[410px] h-[36px] w-full flex items-center justify-center rounded-[4px] bg-[#7177EC] font-Onset font-[600] text-[16px] sm:text-[20px] text-white"
@@ -199,47 +179,40 @@
       <div
         class="smallBox flex flex-col items-center justify-center w-[350px] sm:w-[600px] lg:w-[460px] md:w-[700px] h-[200px] sm:h-[270px] lg:h-[350px] md:h-[308px] rounded-[4px] gap-[2rem] px-[1rem]"
       >
-        <span class="font-Onset font-[700] text-white text-[16px] sm:text-[25px]">Exceptional Performance:</span>
+        <span class="font-Onset font-[700] text-white text-[16px] sm:text-[25px]"
+          >SEO Optimization:</span
+        >
         <span class="hidden lg:flex font-Onset font-[400] text-[16px] text-white"
-          >Experience outstanding performance, robust structure, and expertly crafted website code
-          with our services. Our websites are designed for lightning-fast loading speeds and provide
-          seamless user experiences on all devices, powered by advanced performance optimization
-          techniques.</span
+          >Enhance your online visibility and drive more organic traffic with our expert SEO
+          services. We focus on strategic keyword integration, metadata optimization, and refining
+          site structure to achieve a high SEO score, helping your website stand out and boosting
+          your online presence.</span
         >
         <div
           class="hidden sm:flex lg:hidden items-center justify-center lg:items-start flex-col font-Onset font-[400] text-[12px] md:text-[15px] text-white w-[700px] lg:w-full"
         >
           <span
-            >Experience outstanding performance, robust structure, and expertly crafted website code
-            with our</span
+            >Enhance your online visibility and drive more organic traffic with our expert SEO</span
           >
           <span>
-            services. Our websites are designed for lightning-fast loading speeds and provide
-            seamless user</span
+            services. We focus on strategic keyword integration, metadata optimization, and
+            refining</span
           >
-          <span
-            >experiences on all devices, powered by advanced performance optimization
-            techniques.</span
+          <span>
+            site structure to achieve a high SEO score, helping your website stand out and
+            boosting</span
           >
+          <span> your online presence.</span>
         </div>
         <div
           class="flex sm:hidden items-center justify-center lg:items-start flex-col font-Onset font-[400] text-[9px] md:text-[15px] text-white w-[700px] lg:w-full"
         >
-          <span
-            >Experience outstanding performance, robust structure, and expertly crafted </span
-          >
+          <span>Experience outstanding performance, robust structure, and expertly crafted </span>
           <span>
-            website code
-            with our
-            services. Our websites are designed for lightning-fast </span
-          >
-          <span
-            > loading speeds and provide
-            seamless user
-            experiences on all devices,  </span
-          >
-          <span>powered by advanced performance optimization
-            techniques.</span>
+            website code with our services. Our websites are designed for lightning-fast
+          </span>
+          <span> loading speeds and provide seamless user experiences on all devices, </span>
+          <span>powered by advanced performance optimization techniques.</span>
         </div>
         <button
           class="z-10 max-w-[150px] sm:max-w-[210px] lg:max-w-[410px] h-[36px] w-full flex items-center justify-center rounded-[4px] bg-[#7177EC] font-Onset font-[600] text-[16px] sm:text-[20px] text-white"
@@ -251,7 +224,10 @@
     <div class="flex flex-col items-center justify-center">
       <div class="relative">
         <img src="../assets/imgs/Home/Laptop.svg" class="" />
-        <img class="Arrow w-[5%] h-[5%]  sm:w-[5%] sm:h-[5%] absolute right-[47.7%] top-[67%]" src="../assets/imgs/Home/Arrow.svg" />
+        <img
+          class="Arrow w-[5%] h-[5%] sm:w-[5%] sm:h-[5%] absolute right-[47.7%] top-[67%]"
+          src="../assets/imgs/Home/Arrow.svg"
+        />
       </div>
       <div
         class="hidden sm:flex flex-col items-center justify-center font-Onset font-[500] text-[16px] 2xl:text-[35px] xl:text-[30px] lg:text-[25px] md:text-[20px] text-white pb-[2rem]"
@@ -265,9 +241,7 @@
         class="flex sm:hidden flex-col items-center justify-center font-Onset font-[500] text-[11px] 2xl:text-[35px] xl:text-[30px] lg:text-[25px] md:text-[20px] text-white pb-[2rem]"
       >
         <span>Transform your business with expert IT consultations designed </span>
-        <span
-          >for your needs. Improve efficiency, streamline operations, </span
-        >
+        <span>for your needs. Improve efficiency, streamline operations, </span>
         <span>and drive innovation with our support.</span>
       </div>
       <button
@@ -341,7 +315,6 @@
       </div>
     </div>
     <div class="flex sm:hidden flex-col items-center justify-center gap-[4rem] h-[300px]">
- 
       <!-- First Row -->
       <div class="flex items-center justify-center gap-[2rem] xl:gap-[5rem]">
         <div
@@ -379,10 +352,12 @@
       <div
         class="flex flex-col item-start justify-center w-[200px] sm:w-[405px] lg:w-[1500px] md:w-[485px] z-50"
       >
-        <span class="font-Onset font-[800] text-white text-[20px] sm:text-[35px] lg:text-[64px] md:text-[45px]"
+        <span
+          class="font-Onset font-[800] text-white text-[20px] sm:text-[35px] lg:text-[64px] md:text-[45px]"
           >Let’s Talk</span
         >
-        <span class="font-Onset font-[500] text-white text-[6px] sm:text-[12px] lg:text-[20px] md:text-[16px]"
+        <span
+          class="font-Onset font-[500] text-white text-[6px] sm:text-[12px] lg:text-[20px] md:text-[16px]"
           >Have some big idea or brand to develop and need help?<br />
           Then reach out we'd love to hear about your project<br />
           and provide help</span
@@ -426,13 +401,17 @@
         </button>
       </div>
     </div>
-    <div class="letsTalkBox1 w-[384px] h-[862px] flex md:hidden items-center justify-center flex-col gap-[5rem]">
+    <div
+      class="letsTalkBox1 w-[384px] h-[862px] flex md:hidden items-center justify-center flex-col gap-[5rem]"
+    >
       <div class="flex items-center justify-center flex-col">
-        <span class=" font-Onset text-[50px] text-white font-[800]">Let’s Talk</span>
-        <div class="flex items-center justify-center flex-col font-Onset text-[14px] text-white font-500">
+        <span class="font-Onset text-[50px] text-white font-[800]">Let’s Talk</span>
+        <div
+          class="flex items-center justify-center flex-col font-Onset text-[14px] text-white font-500"
+        >
           <span>Have some big idea or brand to develop and</span>
           <span>need help? Then reach out we'd love to hear</span>
-          <span>about your project  and provide help</span>
+          <span>about your project and provide help</span>
         </div>
       </div>
       <div
@@ -648,7 +627,6 @@ export default {
           src: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlGmKtrnxElpqw3AExKXPWWBulcwjlvDJa1Q&s',
           alt: 'Image 5',
         },
-   
       ],
       secondRowIconsMobile2: [
         {
@@ -952,7 +930,7 @@ export default {
   background-image: url(../assets/imgs/Home/Vector1.png);
   background-repeat: no-repeat;
   background-size: contain;
-background-position-y:100% ;
+  background-position-y: 100%;
   z-index: 1;
 }
 .letsTalkBox1::before {
@@ -1050,5 +1028,4 @@ background-position-y:100% ;
 .circlee-image.hidden {
   opacity: 0; /* Makes the image gradually disappear */
 }
-
 </style>
