@@ -64,7 +64,7 @@
       </div>
     </div>
 
-    <div class="flex items-center justify-center flex-col gap-8 mt-60 sm:mt-96">
+    <div class="flex items-center justify-center flex-col gap-8 mt-4 sm:mt-32 xl:mt-96">
       <span class="text-[25px] sm:text-[30px] lg:text-[50px] text-white font-[700] font-Onset"
         >What services do you need?</span
       >

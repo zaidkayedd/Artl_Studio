@@ -115,4 +115,46 @@ nav a:first-of-type {
     margin-top: 1rem;
   }
 }
+@media (max-width: 1280px) {
+  .AllPage {
+  background-image: url(././assets/imgs/Home/background.svg);
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 9.65rem;
+  background-repeat: no-repeat;
+}
+  
+}
+@media (max-width: 768px) {
+  .AllPage {
+  background-image: url(././assets/imgs/Home/background.svg);
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 5.65rem;
+  background-repeat: no-repeat;
+}
+  
+}
+@media (max-width: 640px) {
+  .AllPage {
+  background-image: url(././assets/imgs/Home/background.svg);
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 9.65rem;
+  background-repeat: no-repeat;
+}
+  
+}
 </style>

@@ -1,7 +1,7 @@
 <template>
-  <div class="flex items-center justify-center flex-col gap-[5rem]">
+  <div class="flex items-center justify-center flex-col gap-4 sm:gap-[5rem]">
     <div
-      class="gridContainer w-full h-full max-w-[1500px] flex items-center justify-center flex-col gap-[10rem] sm:gap-[20rem] translate-y-[-7rem] sm:translate-y-0"
+      class="gridContainer w-full h-full max-w-[1500px] flex items-center justify-center flex-col gap-[7rem] md:gap-[12rem] lg:gap-[15rem] xl:gap-[20rem] translate-y-[-7rem] sm:translate-y-0"
     >
       <div class="flex items-center justify-center flex-col gap-4 sm:gap-[4.3rem]">
         <span
@@ -52,7 +52,7 @@
       </div>
 
       <div
-        class="box flex flex-col items-center justify-center w-[350px] sm:w-[600px] 2xl:w-[1418px] xl:w-[1150px] lg:w-[1000px] md:w-[700px] h-[200px] sm:h-[280px] lg:h-[375px] md:h-[308px] gap-[2rem]"
+        class="box flex flex-col items-center justify-center w-[350px] sm:w-[600px] 2xl:w-[1418px] xl:w-[1150px] lg:w-[1000px] md:w-[700px] h-[200px] sm:h-[280px] lg:h-[375px] md:h-[308px] gap-4 sm:gap-[2rem]"
       >
         <span
           class="font-Onset font-[700] text-[20px] sm:text-[30px] lg:text-[50px] md:text-[40px] text-white"
@@ -88,7 +88,7 @@
     </div>
     <div class="grid grid-cols-1 gap-[1rem] 2xl:grid-cols-3 lg:grid-cols-2">
       <div
-        class="smallBox flex flex-col items-center justify-center w-[350px] sm:w-[600px] lg:w-[460px] md:w-[700px] h-[200px] sm:h-[270px] lg:h-[350px] md:h-[308px] rounded-[4px] gap-[2rem] px-[1rem]"
+        class="smallBox flex flex-col items-center justify-center w-[350px] sm:w-[600px] lg:w-[460px] md:w-[700px] h-[200px] sm:h-[270px] lg:h-[350px] md:h-[308px] rounded-[4px] gap-4 sm:gap-[2rem] px-[1rem]"
       >
         <span class="font-Onset font-[700] text-white text-[16px] sm:text-[25px]"
           >Exceptional Performance:</span
@@ -132,7 +132,7 @@
         </button>
       </div>
       <div
-        class="smallBox flex flex-col items-center justify-center w-[350px] sm:w-[600px] lg:w-[460px] md:w-[700px] h-[200px] sm:h-[270px] lg:h-[350px] md:h-[308px] rounded-[4px] gap-[2rem] px-[1rem]"
+        class="smallBox flex flex-col items-center justify-center w-[350px] sm:w-[600px] lg:w-[460px] md:w-[700px] h-[200px] sm:h-[270px] lg:h-[350px] md:h-[308px] rounded-[4px] gap-4 sm:gap-[2rem] px-[1rem]"
       >
         <span class="font-Onset font-[700] text-white text-[16px] sm:text-[25px]"
           >Clean and Contemporary Design:</span
@@ -156,9 +156,9 @@
           >
           <span
             >experiences on all devices, powered by advanced performance optimization brand and
-            content while delivering an intuitive user experience that engages and</span
+            content  </span
           >
-          <span> captivates your audience.</span>
+          <span>while delivering an intuitive user experience that engages and captivates your audience.</span>
         </div>
         <div
           class="flex sm:hidden items-center justify-center lg:items-start flex-col font-Onset font-[400] text-[9px] md:text-[15px] text-white w-[700px] lg:w-full"
@@ -177,7 +177,7 @@
         </button>
       </div>
       <div
-        class="smallBox flex flex-col items-center justify-center w-[350px] sm:w-[600px] lg:w-[460px] md:w-[700px] h-[200px] sm:h-[270px] lg:h-[350px] md:h-[308px] rounded-[4px] gap-[2rem] px-[1rem]"
+        class="smallBox flex flex-col items-center justify-center w-[350px] sm:w-[600px] lg:w-[460px] md:w-[700px] h-[200px] sm:h-[270px] lg:h-[350px] md:h-[308px] rounded-[4px] gap-4 sm:gap-[2rem] px-[1rem]"
       >
         <span class="font-Onset font-[700] text-white text-[16px] sm:text-[25px]"
           >SEO Optimization:</span
@@ -282,7 +282,7 @@
         </div>
       </div>
     </div>
-    <div class="hidden sm:flex lg:hidden flex-col items-center justify-center gap-[4rem] h-[300px]">
+    <div class="hidden sm:flex lg:hidden flex-col items-center justify-center gap-[4rem]  h-[300px]">
       <!-- First Row -->
       <div class="flex items-center justify-center gap-[3rem] xl:gap-[5rem]">
         <div
@@ -314,7 +314,7 @@
         </div>
       </div>
     </div>
-    <div class="flex sm:hidden flex-col items-center justify-center gap-[4rem] h-[300px]">
+    <div class="flex sm:hidden flex-col items-center justify-center gap-[4rem] h-[250px]">
       <!-- First Row -->
       <div class="flex items-center justify-center gap-[2rem] xl:gap-[5rem]">
         <div
@@ -402,7 +402,7 @@
       </div>
     </div>
     <div
-      class="letsTalkBox1 w-[384px] h-[862px] flex md:hidden items-center justify-center flex-col gap-[5rem]"
+      class="letsTalkBox1 w-[340px] sm:w-[584px] h-[862px] flex md:hidden items-center justify-center flex-col gap-[5rem]"
     >
       <div class="flex items-center justify-center flex-col">
         <span class="font-Onset text-[50px] text-white font-[800]">Let’s Talk</span>

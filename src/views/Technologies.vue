@@ -10,7 +10,7 @@
               class="text-[17px] sm:text-[20px] 668:text-[30px] lg:text-[40px] xl:text-[50px] 2xl:text-[60px] text-white font-[700] font-Onset flex items-center justify-center gap-1 lg:gap-4"
             >
               <div
-                class="flex items-center justify-center w-[72px] sm:w-[90px] 668:w-[125px] xl:w-[250px] h-[25px] 668:h-[42px] xl:h-[72px] bg-[#686EDA80] font-[700]"
+                class="flex items-center justify-center w-[72px] sm:w-[90px] 668:w-[175px] xl:w-[250px] h-[25px] 668:h-[52px] xl:h-[72px] bg-[#686EDA80] font-[700]"
               >
                 Crafting
               </div>
@@ -55,7 +55,7 @@
         </div>
       </div>
     </div>
-    <div class="flex items-center justify-center flex-col gap-4 mt-[1rem] sm:mt-[-3rem] md:mt-96">
+    <div class="flex items-center justify-center flex-col gap-4 mt-[-5rem] sm:mt-[3rem]  md:mt-44 xl:mt-96">
       <span class="text-[20px] 668:text-[40px] 2xl:text-[50px] text-white font-[700] font-Onset"
         >Our Stacks to Digital Excellence</span
       >
@@ -295,7 +295,7 @@
         </div>
       </div>
     </div>
-    <div class="mt-32 flex flex-col items-center justify-center">
+    <div class="  sm:mt-32 flex flex-col items-center justify-center">
       <img src="../assets/imgs/Technologies/TV.svg" />
       <div class="flex flex-col items-center justify-center gap-8">
         <div class="flex items-center justify-center flex-col">

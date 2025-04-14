@@ -51,7 +51,7 @@
         </div>
       </div>
     </div>
-    <div class="flex items-center justify-center flex-col gap-4 mt-96">
+    <div class="flex items-center justify-center flex-col gap-4 mt-20 md:mt-32 xl:mt-96">
       <span class="text-[20px] md:text-[30px] xl:text-[50px] text-white font-[700] font-Onset"
         >From Concept to Market</span
       >

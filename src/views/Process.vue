@@ -45,7 +45,7 @@
         </div>
       </div>
     </div>
-    <div class="flex items-center justify-center flex-col gap-8 mt-[5rem] sm:mt-96">
+    <div class="flex items-center justify-center flex-col gap-8 mt-[-2rem] sm:mt-28 xl:mt-96">
       <span class="text-[13px] sm:text-[18px] md:text-[25px] lg:text-[35px] 2xl:text-[50px] text-white font-[700] font-Onset"
         >Our Simple and Fast Workflow for Customer Onboarding</span
       >

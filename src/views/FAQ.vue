@@ -49,7 +49,7 @@
       </div>
     </div>
 
-    <div class="flex items-center justify-center flex-col gap-8 mt-4 md:mt-20 sm:mt-64">
+    <div class="flex items-center justify-center flex-col gap-8 mt-4 md:mt-20 sm:mt-32">
       <span class="text-[20px] sm:text-[30px] lg:text-[50px] text-white font-[700] font-Onset"
         >Our Frequently Asked Questions List</span
       >

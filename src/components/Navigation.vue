@@ -1,7 +1,7 @@
 <template>
   <div class="flex items-center justify-center">
     <div
-      class="flex items-center justify-between w-full gap-[10rem] h-[120px] max-w-[1000px] sm:max-w-[1500px] xl:gap-[25.5rem] lg:gap-[55rem] md:gap-[35rem] sm:gap-[10rem]"
+      class="flex items-center justify-between w-full gap-[13rem] h-[120px] max-w-[1000px] sm:max-w-[1500px] xl:gap-[17.5rem] lg:gap-[55rem] md:gap-[35rem] sm:gap-[27rem]"
     >
       <div class="left">
         <RouterLink to="/"> <img src="../assets/imgs/nav/Logo.png" /></RouterLink>
@@ -18,7 +18,7 @@
       <transition name="fade-slide">
         <div
           v-if="showMenu"
-          class="Menu z-10 backdrop-blur-lg flex xl:hidden flex-col items-start justify-center w-full max-w-[400px]  absolute top-[7.3rem] right-0 rounded-[6px] p-2"
+          class="Menu z-10 backdrop-blur-lg flex xl:hidden flex-col items-start justify-center w-full max-w-[400px]  absolute top-[7.3rem] right-4 rounded-[6px] p-2"
         >
           <div class="flex flex-col items-start justify-start px-4   w-full max-w-[400px]">
             <router-link
@@ -36,40 +36,40 @@
       <div
         class="right hidden xl:flex items-center 2xl:justify-center justify-end gap-[1rem] 2xl:gap-[2rem] w-[800px] 1300:w-[900px]"
       >
-        <RouterLink to="/" class="font-Onset text-[16px] 2xl:text-[20px] font-[400] text-white "
+        <RouterLink to="/" class="font-Onset text-[18px] 2xl:text-[20px] font-[400] text-white "
           >Home</RouterLink
         >
         <RouterLink
           to="/about"
-          class="font-Onset text-[16px] 2xl:text-[20px] font-[400] text-white w-[70px] 2xl:w-[100px]"
+          class="font-Onset text-[18px] 2xl:text-[20px] font-[400] text-white w-[80px] 2xl:w-[100px]"
           >About Us</RouterLink
         >
         <RouterLink
           to="/services"
-          class="font-Onset text-[16px] 2xl:text-[20px] font-[400] text-white"
+          class="font-Onset text-[18px] 2xl:text-[20px] font-[400] text-white"
           >Services</RouterLink
         >
         <RouterLink
           to="/technologies"
-          class="font-Onset text-[16px] 2xl:text-[20px] font-[400] text-white"
+          class="font-Onset text-[18px] 2xl:text-[20px] font-[400] text-white"
           >Technologies</RouterLink
         >
         <RouterLink
           to="/process"
-          class="font-Onset text-[16px] 2xl:text-[20px] font-[400] text-white"
+          class="font-Onset text-[18px] 2xl:text-[20px] font-[400] text-white"
           >Process</RouterLink
         >
-        <RouterLink to="/faq" class="font-Onset text-[16px] 2xl:text-[20px] font-[400] text-white"
+        <RouterLink to="/faq" class="font-Onset text-[18px] 2xl:text-[20px] font-[400] text-white"
           >FAQ</RouterLink
         >
         <RouterLink
           to="/pricing"
-          class="font-Onset text-[16px] 2xl:text-[20px] font-[400] text-white"
+          class="font-Onset text-[18px] 2xl:text-[20px] font-[400] text-white"
           >Pricing</RouterLink
         >
         <RouterLink to="/contact-us">
           <button
-            class="font-Onset text-[16px] 2xl:text-[20px] font-[400] text-white w-[100px] 2xl:w-[130px] bg-[#686EDA] h-[22px] 2xl:h-[37px] flex items-center justify-center rounded-[4px] border-none "
+            class="font-Onset text-[18px] 2xl:text-[20px] font-[400] text-white w-[110px] 2xl:w-[130px] bg-[#686EDA] h-[30px] 2xl:h-[37px] flex items-center justify-center rounded-[4px] border-none "
           >
             Contact Us
           </button>
