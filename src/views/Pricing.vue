@@ -122,7 +122,7 @@
       <div class="flex items-center justify-center flex-col lg:flex-row gap-12">
         <div class="flex items-center justify-center flex-col gap-16">
           <div class="flex items-start justify-center flex-col gap-2">
-            <span class="text-[26px] font-Onset font-[700] text-white">Name:</span>
+            <span class="text-[18px] md:text-[26px] font-Onset font-[700] text-white">Name:</span>
             <div
               class="input w-[300px] sm:w-[400px] 2xl:w-[673px] h-[70px] flex items-center justify-center px-2 2xl:px-0"
             >
@@ -136,7 +136,7 @@
             <span v-if="!name && submitted" class="text-red-500">This input is required</span>
           </div>
           <div class="flex items-start justify-center flex-col gap-2">
-            <span class="text-[26px] font-Onset font-[700] text-white">Phone Number:</span>
+            <span class="text-[18px] md:text-[26px] font-Onset font-[700] text-white">Phone Number:</span>
             <div
               class="input w-[300px] sm:w-[400px] 2xl:w-[673px] h-[70px] flex items-center justify-center px-2 2xl:px-0"
             >
@@ -151,7 +151,7 @@
             <span v-if="!phone && submitted" class="text-red-500">This input is required</span>
           </div>
           <div class="flex items-start justify-center flex-col gap-2">
-            <span class="text-[26px] font-Onset font-[700] text-white">Email:</span>
+            <span class="text-[18px] md:text-[26px] font-Onset font-[700] text-white">Email:</span>
             <div
               class="input w-[300px] sm:w-[400px] 2xl:w-[673px] h-[70px] flex items-center justify-center px-2 2xl:px-0"
             >

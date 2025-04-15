@@ -111,14 +111,14 @@
         <span class="text-[26px] text-white font-[700] ">Email Address</span>
         <hr class="w-full opacity-50"/>
         <span class="text-[22px] text-white font-[600] ">info@artlstudio.com</span>
-<span class="text-[20px] text-white font-[500] opacity-50 mt-4">Assistant ours:</span>
+<span class="text-[20px] text-white font-[500] opacity-50 mt-4">Assistant Hours:</span>
 <span class="text-[20px] text-white font-[500] opacity-50">Saturday - Thursday 8 am to 10 pm GMT+03:00  </span>
     </div>
     <div class="w-[300px] sm:w-[550px] flex items-start justify-center flex-col gap-2"> 
         <span class="text-[26px] text-white font-[700] ">Number</span>
         <hr class="w-full opacity-50"/>
         <span class="text-[22px] text-white font-[600] ">(+962) 79 00 91 911</span>
-<span class="text-[20px] text-white font-[500] opacity-50 mt-4">Assistant ours:</span>
+<span class="text-[20px] text-white font-[500] opacity-50 mt-4">Assistant Hours:</span>
 <span class="text-[20px] text-white font-[500] opacity-50">Saturday - Thursday 8 am to 10 pm GMT+03:00  </span>
     </div>
     </div>

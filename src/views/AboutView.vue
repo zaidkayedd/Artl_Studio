@@ -1,4 +1,4 @@
-<template>
+`<template>
   <div class="flex items-center justify-center flex-col gap-[5rem]">
     <div
       class="gridContainer w-full h-full max-w-[1500px] flex items-center justify-center flex-col gap-[10rem] sm:gap-[12rem] xl:gap-[20rem] translate-y-[-12rem] sm:translate-y-0 mt-24 sm:mt-0"
@@ -735,3 +735,4 @@ li:before {
 }
 
 </style>
+`
