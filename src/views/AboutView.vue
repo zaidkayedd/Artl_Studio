@@ -399,7 +399,7 @@
         <div class="service flex items-center justify-center flex-col gap-4">
           <div class="flex items-center justify-center flex-col gap-4">
             <img src="../assets/imgs/About/Third.png" />
-            <span class="text-white text-[16px] md:text-[20px] font-[700] font-Onset"
+            <span class="text-white text-[14px] md:text-[20px] font-[700] font-Onset"
               >Dynamic and Controllable Project Scoping</span
             >
           </div>
