@@ -310,8 +310,9 @@
             class="flex items-center justify-center flex-col text-[10px] md:text-[14px] text-white font-[500] font-Onset"
           >
             <span>Streamline your website management with our CMS solutions. </span>
-            <span>We provide user-friendly, customizable systems that make updating your </span>
-            <span>content simple and efficient, ensuring your site stays fresh and engaging.</span>
+            <span>We provide user-friendly, customizable systems that make </span>
+            <span>updating your content simple and efficient, ensuring your </span>
+            <span>site stays fresh and engaging.</span>
           </div>
         </div>
         <div class="service flex items-center justify-center flex-col gap-4">
@@ -324,11 +325,9 @@
           <div
             class="flex items-center justify-center flex-col text-[10px] md:text-[14px] text-white font-[500] font-Onset"
           >
-            <span
-              >Transform your business identity with our branding services. We craft cohesive,
-            </span>
-            <span>memorable brand strategies that resonate with your audience </span>
-            <span>and set you apart in the market.</span>
+            <span>Transform your business identity with our branding services. We </span>
+            <span>craft cohesive, memorable brand strategies that resonate </span>
+            <span>with your audience and set you apart in the market.</span>
           </div>
         </div>
 
@@ -340,11 +339,10 @@
           <div
             class="flex items-center justify-center flex-col text-[10px] md:text-[14px] text-white font-[500] font-Onset"
           >
-            <span
-              >Boost your online visibility with our expert SEO services. We use proven strategies
-            </span>
-            <span>to drive organic traffic, improve search rankings, and help your business </span>
-            <span>thrive in the digital landscape.</span>
+            <span>Boost your online visibility with our expert SEO services. We use </span>
+            <span>proven strategies to drive organic traffic, improve search </span>
+            <span>rankings, and help your business thrive in </span>
+            <span>the digital landscape.</span>
           </div>
         </div>
         <div class="service flex items-center justify-center flex-col gap-4">
@@ -357,11 +355,9 @@
           <div
             class="flex items-center justify-center flex-col text-[10px] md:text-[14px] text-white font-[500] font-Onset"
           >
-            <span>Optimize your operations with our IT consultation services. We provide </span>
-            <span>
-              tailored solutions to address your unique challenges, streamline processes,
-            </span>
-            <span>and drive innovation for lasting success.</span>
+            <span>Optimize your operations with our IT consultation services. We </span>
+            <span> provide tailored solutions to address your unique challenges, </span>
+            <span>streamline processes, and drive innovation for lasting success.</span>
           </div>
         </div>
       </div>
