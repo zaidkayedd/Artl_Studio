@@ -101,7 +101,7 @@
         </div>
       </div>
     </div>
-    <div class="flex items-center justify-center flex-col gap-4 mt-[-3rem] sm:mt-0">
+    <div class="flex items-center justify-center flex-col gap-4 mt-[-5rem] sm:mt-0">
       <span class="text-[20px] sm:text-[30px] lg:text-[50px] text-white font-[700] font-Onset"
         >How We Guarantee Project Success</span
       >

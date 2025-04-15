@@ -4,7 +4,7 @@
       class="gridContainer w-full h-full max-w-[1500px] flex items-center justify-center flex-col gap-[20rem]"
     >
       <div class="flex items-center justify-center">
-        <div class="flex items-center justify-center flex-col gap-10">
+        <div class="flex items-center justify-center flex-col gap-4 sm:gap-10">
           <div class="flex items-center justify-center flex-col">
             <span
               class="text-[18px] sm:text-[25px] md:text-[40px] xl:text-[60px] text-white font-[700] font-Onset flex items-center justify-center gap-1 xl:gap-4"
@@ -74,8 +74,8 @@
             <div class="flex items-center justify-center flex-col gap-4">
               <img src="../assets/imgs/Services/First.png" />
               <span class="text-white text-[16px] md:text-[20px] font-[700] font-Onset"
-                >Website Development </span
-              >
+                >Website Development
+              </span>
             </div>
           </div>
           <div class="back">
@@ -83,10 +83,10 @@
               class="flex items-center justify-center flex-col text-[10px] md:text-[14px] text-white font-[500] font-Onset"
             >
               <span
-                >Achieve your business objectives with a custom-designed website that is fast, 
+                >Achieve your business objectives with a custom-designed website that is fast,
               </span>
               <span
-                >reliable, and user-friendly. Whether you need a simple informational site 
+                >reliable, and user-friendly. Whether you need a simple informational site
               </span>
               <span>or a complex system, we provide end-to-end support.</span>
             </div>
@@ -105,12 +105,8 @@
             <div
               class="flex items-center justify-center flex-col text-[10px] md:text-[14px] text-white font-[500] font-Onset"
             >
-              <span
-                >Increase your sales with our e-commerce website solutions. 
-              </span>
-              <span
-                >Our user-friendly designs, intuitive navigation, and dependable 
-              </span>
+              <span>Increase your sales with our e-commerce website solutions. </span>
+              <span>Our user-friendly designs, intuitive navigation, and dependable </span>
               <span>performance make online selling seamless and effective.</span>
             </div>
           </div>
@@ -128,12 +124,8 @@
             <div
               class="flex items-center justify-center flex-col text-[10px] md:text-[14px] text-white font-[500] font-Onset"
             >
-              <span
-                >Elevate your business with our web app development services. 
-              </span>
-              <span
-                >We deliver tailored, user-friendly solutions built with the latest 
-              </span>
+              <span>Elevate your business with our web app development services. </span>
+              <span>We deliver tailored, user-friendly solutions built with the latest </span>
               <span>technologies to ensure your online success.</span>
             </div>
           </div>
@@ -151,12 +143,8 @@
             <div
               class="flex items-center justify-center flex-col text-[10px] md:text-[14px] text-white font-[500] font-Onset"
             >
-              <span
-                >Reimagine your brand with our UI/UX design and branding services. 
-              </span>
-              <span
-                >We create captivating interfaces and cohesive brand identities that 
-              </span>
+              <span>Reimagine your brand with our UI/UX design and branding services. </span>
+              <span>We create captivating interfaces and cohesive brand identities that </span>
               <span>resonate with your audience and leave a lasting digital impression.</span>
             </div>
           </div>
@@ -165,22 +153,18 @@
           <div class="front">
             <div class="flex items-center justify-center flex-col gap-4">
               <img src="../assets/imgs/Services/Fifth.png" />
-              <span class="text-white text-[16px] md:text-[20px] font-[700] font-Onset"
-                >CMS</span
-              >
+              <span class="text-white text-[16px] md:text-[20px] font-[700] font-Onset">CMS</span>
             </div>
           </div>
           <div class="back">
             <div
               class="flex items-center justify-center flex-col text-[10px] md:text-[14px] text-white font-[500] font-Onset"
             >
+              <span>Streamline your website management with our CMS solutions. </span>
+              <span>We provide user-friendly, customizable systems that make updating your </span>
               <span
-                >Streamline your website management with our CMS solutions.
-              </span>
-              <span
-                >We provide user-friendly, customizable systems that make updating your
-              </span>
-              <span>content simple and efficient, ensuring your site stays fresh and engaging.</span>
+                >content simple and efficient, ensuring your site stays fresh and engaging.</span
+              >
             </div>
           </div>
         </li>
@@ -198,11 +182,9 @@
               class="flex items-center justify-center flex-col text-[10px] md:text-[14px] text-white font-[500] font-Onset"
             >
               <span
-                >Transform your business identity with our branding services. We craft cohesive, 
+                >Transform your business identity with our branding services. We craft cohesive,
               </span>
-              <span
-                >memorable brand strategies that resonate with your audience 
-              </span>
+              <span>memorable brand strategies that resonate with your audience </span>
               <span>and set you apart in the market.</span>
             </div>
           </div>
@@ -211,9 +193,7 @@
           <div class="front">
             <div class="flex items-center justify-center flex-col gap-4">
               <img src="../assets/imgs/Services/Seventh.png" />
-              <span class="text-white text-[16px] md:text-[20px] font-[700] font-Onset"
-                >SEO</span
-              >
+              <span class="text-white text-[16px] md:text-[20px] font-[700] font-Onset">SEO</span>
             </div>
           </div>
           <div class="back">
@@ -221,10 +201,10 @@
               class="flex items-center justify-center flex-col text-[10px] md:text-[14px] text-white font-[500] font-Onset"
             >
               <span
-                >Boost your online visibility with our expert SEO services. We use proven strategies 
+                >Boost your online visibility with our expert SEO services. We use proven strategies
               </span>
               <span
-                >to drive organic traffic, improve search rankings, and help your business 
+                >to drive organic traffic, improve search rankings, and help your business
               </span>
               <span>thrive in the digital landscape.</span>
             </div>
@@ -243,11 +223,9 @@
             <div
               class="flex items-center justify-center flex-col text-[10px] md:text-[14px] text-white font-[500] font-Onset"
             >
-              <span
-                >Optimize your operations with our IT consultation services. We provide
-              </span>
-              <span
-                > tailored solutions to address your unique challenges, streamline processes, 
+              <span>Optimize your operations with our IT consultation services. We provide </span>
+              <span>
+                tailored solutions to address your unique challenges, streamline processes,
               </span>
               <span>and drive innovation for lasting success.</span>
             </div>
@@ -256,178 +234,140 @@
       </div>
       <div class="boxes grid md:hidden grid-cols-1 2xl:grid-cols-2 gap-6">
         <div class="service flex items-center justify-center flex-col gap-4">
-          <div >
+          <div>
             <div class="flex items-center justify-center flex-col gap-4">
               <img src="../assets/imgs/Services/First.png" />
               <span class="text-white text-[16px] md:text-[20px] font-[700] font-Onset"
-                >Website Development </span
-              >
+                >Website Development
+              </span>
             </div>
           </div>
-         
-            <div
-              class="flex items-center justify-center flex-col text-[10px] md:text-[14px] text-white font-[500] font-Onset"
-            >
-              <span
-                >Achieve your business objectives with a custom-designed website  
-              </span>
-              <span
-                >that is fast, reliable, and user-friendly. Whether you need a 
-              </span>
-              <span> simple informational  site or a complex system,  </span>
-              <span> we provide end-to-end support.</span>
-            </div>
-       
+
+          <div
+            class="flex items-center justify-center flex-col text-[10px] md:text-[14px] text-white font-[500] font-Onset"
+          >
+            <span>Achieve your business objectives with a custom-designed website </span>
+            <span>that is fast, reliable, and user-friendly. Whether you need a </span>
+            <span> simple informational site or a complex system, </span>
+            <span> we provide end-to-end support.</span>
           </div>
+        </div>
         <div class="service flex items-center justify-center flex-col gap-4">
-          
-            <div class="flex items-center justify-center flex-col gap-4">
-              <img src="../assets/imgs/Services/Second.png" />
-              <span class="text-white text-[16px] md:text-[20px] font-[700] font-Onset"
-                >E-Commerce</span
-              >
-            </div>
-          
-         
-            <div
-              class="flex items-center justify-center flex-col text-[10px] md:text-[14px] text-white font-[500] font-Onset"
+          <div class="flex items-center justify-center flex-col gap-4">
+            <img src="../assets/imgs/Services/Second.png" />
+            <span class="text-white text-[16px] md:text-[20px] font-[700] font-Onset"
+              >E-Commerce</span
             >
-              <span
-                >Increase your sales with our e-commerce website solutions. 
-              </span>
-              <span
-                >Our user-friendly designs, intuitive navigation, and dependable 
-              </span>
-              <span>performance make online selling seamless and effective.</span>
-            </div>
-          
           </div>
+
+          <div
+            class="flex items-center justify-center flex-col text-[10px] md:text-[14px] text-white font-[500] font-Onset"
+          >
+            <span>Increase your sales with our e-commerce website solutions. </span>
+            <span>Our user-friendly designs, intuitive navigation, and dependable </span>
+            <span>performance make online selling seamless and effective.</span>
+          </div>
+        </div>
         <div class="service flex items-center justify-center flex-col gap-4">
-        
-            <div class="flex items-center justify-center flex-col gap-4">
-              <img src="../assets/imgs/Services/Third.png" />
-              <span class="text-white text-[16px] md:text-[20px] font-[700] font-Onset"
-                >App Development</span
-              >
-            </div>
-        
-            <div
-              class="flex items-center justify-center flex-col text-[10px] md:text-[14px] text-white font-[500] font-Onset"
+          <div class="flex items-center justify-center flex-col gap-4">
+            <img src="../assets/imgs/Services/Third.png" />
+            <span class="text-white text-[16px] md:text-[20px] font-[700] font-Onset"
+              >App Development</span
             >
-              <span
-                >Elevate your business with our web app development services. 
-              </span>
-              <span
-                >We deliver tailored, user-friendly solutions built with the latest 
-              </span>
-              <span>technologies to ensure your online success.</span>
-            </div>
-      
           </div>
+
+          <div
+            class="flex items-center justify-center flex-col text-[10px] md:text-[14px] text-white font-[500] font-Onset"
+          >
+            <span>Elevate your business with our web app development services. </span>
+            <span>We deliver tailored, user-friendly solutions built with the latest </span>
+            <span>technologies to ensure your online success.</span>
+          </div>
+        </div>
         <div class="service flex items-center justify-center flex-col gap-4">
-       
-            <div class="flex items-center justify-center flex-col gap-4">
-              <img src="../assets/imgs/Services/Fourth.png" />
-              <span class="text-white text-[16px] md:text-[20px] font-[700] font-Onset"
-                >UI/UX Design</span
-              >
-            </div>
-         
-            <div
-              class="flex items-center justify-center flex-col text-[10px] md:text-[14px] text-white font-[500] font-Onset"
+          <div class="flex items-center justify-center flex-col gap-4">
+            <img src="../assets/imgs/Services/Fourth.png" />
+            <span class="text-white text-[16px] md:text-[20px] font-[700] font-Onset"
+              >UI/UX Design</span
             >
-              <span
-                >Reimagine your brand with our UI/UX design and branding services. 
-              </span>
-              <span
-                >We create captivating interfaces and cohesive brand identities that 
-              </span>
-              <span>resonate with your audience and leave a lasting digital impression.</span>
-            </div>
           </div>
-      
+
+          <div
+            class="flex items-center justify-center flex-col text-[10px] md:text-[14px] text-white font-[500] font-Onset"
+          >
+            <span>Reimagine your brand with our UI/UX design and branding services. </span>
+            <span>We create captivating interfaces and cohesive brand identities that </span>
+            <span>resonate with your audience and leave a lasting digital impression.</span>
+          </div>
+        </div>
+
         <div class="service flex items-center justify-center flex-col gap-4">
-       
-            <div class="flex items-center justify-center flex-col gap-4">
-              <img src="../assets/imgs/Services/Fifth.png" />
-              <span class="text-white text-[16px] md:text-[20px] font-[700] font-Onset"
-                >CMS</span
-              >
-            </div>
-            <div
-              class="flex items-center justify-center flex-col text-[10px] md:text-[14px] text-white font-[500] font-Onset"
-            >
-              <span
-                >Streamline your website management with our CMS solutions.
-              </span>
-              <span
-                >We provide user-friendly, customizable systems that make updating your
-              </span>
-              <span>content simple and efficient, ensuring your site stays fresh and engaging.</span>
-            </div>
+          <div class="flex items-center justify-center flex-col gap-4">
+            <img src="../assets/imgs/Services/Fifth.png" />
+            <span class="text-white text-[16px] md:text-[20px] font-[700] font-Onset">CMS</span>
           </div>
+          <div
+            class="flex items-center justify-center flex-col text-[10px] md:text-[14px] text-white font-[500] font-Onset"
+          >
+            <span>Streamline your website management with our CMS solutions. </span>
+            <span>We provide user-friendly, customizable systems that make updating your </span>
+            <span>content simple and efficient, ensuring your site stays fresh and engaging.</span>
+          </div>
+        </div>
         <div class="service flex items-center justify-center flex-col gap-4">
-            <div class="flex items-center justify-center flex-col gap-4">
-              <img src="../assets/imgs/Services/Sixth.png" />
-              <span class="text-white text-[16px] md:text-[20px] font-[700] font-Onset"
-                >Logo Design & Branding</span
-              >
-            </div>
-            <div
-              class="flex items-center justify-center flex-col text-[10px] md:text-[14px] text-white font-[500] font-Onset"
+          <div class="flex items-center justify-center flex-col gap-4">
+            <img src="../assets/imgs/Services/Sixth.png" />
+            <span class="text-white text-[16px] md:text-[20px] font-[700] font-Onset"
+              >Logo Design & Branding</span
             >
-              <span
-                >Transform your business identity with our branding services. We craft cohesive, 
-              </span>
-              <span
-                >memorable brand strategies that resonate with your audience 
-              </span>
-              <span>and set you apart in the market.</span>
-            </div>
           </div>
-        
+          <div
+            class="flex items-center justify-center flex-col text-[10px] md:text-[14px] text-white font-[500] font-Onset"
+          >
+            <span
+              >Transform your business identity with our branding services. We craft cohesive,
+            </span>
+            <span>memorable brand strategies that resonate with your audience </span>
+            <span>and set you apart in the market.</span>
+          </div>
+        </div>
+
         <div class="service flex items-center justify-center flex-col gap-4">
-            <div class="flex items-center justify-center flex-col gap-4">
-              <img src="../assets/imgs/Services/Seventh.png" />
-              <span class="text-white text-[16px] md:text-[20px] font-[700] font-Onset"
-                >SEO</span
-              >
-            </div>
-            <div
-              class="flex items-center justify-center flex-col text-[10px] md:text-[14px] text-white font-[500] font-Onset"
-            >
-              <span
-                >Boost your online visibility with our expert SEO services. We use proven strategies 
-              </span>
-              <span
-                >to drive organic traffic, improve search rankings, and help your business 
-              </span>
-              <span>thrive in the digital landscape.</span>
-            </div>
+          <div class="flex items-center justify-center flex-col gap-4">
+            <img src="../assets/imgs/Services/Seventh.png" />
+            <span class="text-white text-[16px] md:text-[20px] font-[700] font-Onset">SEO</span>
           </div>
+          <div
+            class="flex items-center justify-center flex-col text-[10px] md:text-[14px] text-white font-[500] font-Onset"
+          >
+            <span
+              >Boost your online visibility with our expert SEO services. We use proven strategies
+            </span>
+            <span>to drive organic traffic, improve search rankings, and help your business </span>
+            <span>thrive in the digital landscape.</span>
+          </div>
+        </div>
         <div class="service flex items-center justify-center flex-col gap-4">
-            <div class="flex items-center justify-center flex-col gap-4">
-              <img src="../assets/imgs/Services/Eigth.png" />
-              <span class="text-white text-[16px] md:text-[20px] font-[700] font-Onset"
-                >Consultation</span
-              >
-            </div>
-            <div
-              class="flex items-center justify-center flex-col text-[10px] md:text-[14px] text-white font-[500] font-Onset"
+          <div class="flex items-center justify-center flex-col gap-4">
+            <img src="../assets/imgs/Services/Eigth.png" />
+            <span class="text-white text-[16px] md:text-[20px] font-[700] font-Onset"
+              >Consultation</span
             >
-              <span
-                >Optimize your operations with our IT consultation services. We provide
-              </span>
-              <span
-                > tailored solutions to address your unique challenges, streamline processes, 
-              </span>
-              <span>and drive innovation for lasting success.</span>
-            </div>
           </div>
+          <div
+            class="flex items-center justify-center flex-col text-[10px] md:text-[14px] text-white font-[500] font-Onset"
+          >
+            <span>Optimize your operations with our IT consultation services. We provide </span>
+            <span>
+              tailored solutions to address your unique challenges, streamline processes,
+            </span>
+            <span>and drive innovation for lasting success.</span>
+          </div>
+        </div>
       </div>
     </div>
 
-    <div class="mt-24 flex flex-col items-center justify-center">
+    <div class="mt-10 sm:mt-24 flex flex-col items-center justify-center">
       <div class="Phone relative">
         <img
           class="z-[-1] mb-[10rem] sm:mb-[5rem] md:mb-0"
@@ -702,12 +642,12 @@ li {
   }
 }
 .service {
-    width: 350px;
-    height: 235px;
-    position: relative;
-    cursor: pointer;
-    padding-inline: 1rem;
-  }
+  width: 350px;
+  height: 235px;
+  position: relative;
+  cursor: pointer;
+  padding-inline: 1rem;
+}
 li:before {
   content: '';
   position: absolute;
