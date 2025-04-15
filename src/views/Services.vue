@@ -68,13 +68,13 @@
           >multi-disciplinary execution you can trust.</span
         >
       </div>
-      <div class="boxes grid grid-cols-1 2xl:grid-cols-2 gap-4">
+      <div class="boxes hidden md:grid grid-cols-1 2xl:grid-cols-2 gap-4">
         <li>
           <div class="front">
             <div class="flex items-center justify-center flex-col gap-4">
               <img src="../assets/imgs/Services/First.png" />
               <span class="text-white text-[16px] md:text-[20px] font-[700] font-Onset"
-                >Engaged Requirements Engineering</span
+                >Website Development </span
               >
             </div>
           </div>
@@ -83,14 +83,12 @@
               class="flex items-center justify-center flex-col text-[10px] md:text-[14px] text-white font-[500] font-Onset"
             >
               <span
-                >We understand that not all clients come with detailed project specifications. When
-                presented
+                >Achieve your business objectives with a custom-designed website that is fast, 
               </span>
               <span
-                >with high-level requirements, we dive deep into the situation, ask the right
-                questions, and
+                >reliable, and user-friendly. Whether you need a simple informational site 
               </span>
-              <span>uncover hidden needs and goals to ensure a comprehensive understanding.</span>
+              <span>or a complex system, we provide end-to-end support.</span>
             </div>
           </div>
         </li>
@@ -99,7 +97,7 @@
             <div class="flex items-center justify-center flex-col gap-4">
               <img src="../assets/imgs/Services/Second.png" />
               <span class="text-white text-[16px] md:text-[20px] font-[700] font-Onset"
-                >Engaged Requirements Engineering</span
+                >E-Commerce</span
               >
             </div>
           </div>
@@ -108,14 +106,12 @@
               class="flex items-center justify-center flex-col text-[10px] md:text-[14px] text-white font-[500] font-Onset"
             >
               <span
-                >We understand that not all clients come with detailed project specifications. When
-                presented
+                >Increase your sales with our e-commerce website solutions. 
               </span>
               <span
-                >with high-level requirements, we dive deep into the situation, ask the right
-                questions, and
+                >Our user-friendly designs, intuitive navigation, and dependable 
               </span>
-              <span>uncover hidden needs and goals to ensure a comprehensive understanding.</span>
+              <span>performance make online selling seamless and effective.</span>
             </div>
           </div>
         </li>
@@ -124,7 +120,7 @@
             <div class="flex items-center justify-center flex-col gap-4">
               <img src="../assets/imgs/Services/Third.png" />
               <span class="text-white text-[16px] md:text-[20px] font-[700] font-Onset"
-                >Engaged Requirements Engineering</span
+                >App Development</span
               >
             </div>
           </div>
@@ -133,14 +129,12 @@
               class="flex items-center justify-center flex-col text-[10px] md:text-[14px] text-white font-[500] font-Onset"
             >
               <span
-                >We understand that not all clients come with detailed project specifications. When
-                presented
+                >Elevate your business with our web app development services. 
               </span>
               <span
-                >with high-level requirements, we dive deep into the situation, ask the right
-                questions, and
+                >We deliver tailored, user-friendly solutions built with the latest 
               </span>
-              <span>uncover hidden needs and goals to ensure a comprehensive understanding.</span>
+              <span>technologies to ensure your online success.</span>
             </div>
           </div>
         </li>
@@ -149,7 +143,7 @@
             <div class="flex items-center justify-center flex-col gap-4">
               <img src="../assets/imgs/Services/Fourth.png" />
               <span class="text-white text-[16px] md:text-[20px] font-[700] font-Onset"
-                >Engaged Requirements Engineering</span
+                >UI/UX Design</span
               >
             </div>
           </div>
@@ -158,14 +152,12 @@
               class="flex items-center justify-center flex-col text-[10px] md:text-[14px] text-white font-[500] font-Onset"
             >
               <span
-                >We understand that not all clients come with detailed project specifications. When
-                presented
+                >Reimagine your brand with our UI/UX design and branding services. 
               </span>
               <span
-                >with high-level requirements, we dive deep into the situation, ask the right
-                questions, and
+                >We create captivating interfaces and cohesive brand identities that 
               </span>
-              <span>uncover hidden needs and goals to ensure a comprehensive understanding.</span>
+              <span>resonate with your audience and leave a lasting digital impression.</span>
             </div>
           </div>
         </li>
@@ -174,7 +166,7 @@
             <div class="flex items-center justify-center flex-col gap-4">
               <img src="../assets/imgs/Services/Fifth.png" />
               <span class="text-white text-[16px] md:text-[20px] font-[700] font-Onset"
-                >Engaged Requirements Engineering</span
+                >CMS</span
               >
             </div>
           </div>
@@ -183,14 +175,12 @@
               class="flex items-center justify-center flex-col text-[10px] md:text-[14px] text-white font-[500] font-Onset"
             >
               <span
-                >We understand that not all clients come with detailed project specifications. When
-                presented
+                >Streamline your website management with our CMS solutions.
               </span>
               <span
-                >with high-level requirements, we dive deep into the situation, ask the right
-                questions, and
+                >We provide user-friendly, customizable systems that make updating your
               </span>
-              <span>uncover hidden needs and goals to ensure a comprehensive understanding.</span>
+              <span>content simple and efficient, ensuring your site stays fresh and engaging.</span>
             </div>
           </div>
         </li>
@@ -199,7 +189,7 @@
             <div class="flex items-center justify-center flex-col gap-4">
               <img src="../assets/imgs/Services/Sixth.png" />
               <span class="text-white text-[16px] md:text-[20px] font-[700] font-Onset"
-                >Engaged Requirements Engineering</span
+                >Logo Design & Branding</span
               >
             </div>
           </div>
@@ -208,14 +198,12 @@
               class="flex items-center justify-center flex-col text-[10px] md:text-[14px] text-white font-[500] font-Onset"
             >
               <span
-                >We understand that not all clients come with detailed project specifications. When
-                presented
+                >Transform your business identity with our branding services. We craft cohesive, 
               </span>
               <span
-                >with high-level requirements, we dive deep into the situation, ask the right
-                questions, and
+                >memorable brand strategies that resonate with your audience 
               </span>
-              <span>uncover hidden needs and goals to ensure a comprehensive understanding.</span>
+              <span>and set you apart in the market.</span>
             </div>
           </div>
         </li>
@@ -224,7 +212,7 @@
             <div class="flex items-center justify-center flex-col gap-4">
               <img src="../assets/imgs/Services/Seventh.png" />
               <span class="text-white text-[16px] md:text-[20px] font-[700] font-Onset"
-                >Engaged Requirements Engineering</span
+                >SEO</span
               >
             </div>
           </div>
@@ -233,14 +221,12 @@
               class="flex items-center justify-center flex-col text-[10px] md:text-[14px] text-white font-[500] font-Onset"
             >
               <span
-                >We understand that not all clients come with detailed project specifications. When
-                presented
+                >Boost your online visibility with our expert SEO services. We use proven strategies 
               </span>
               <span
-                >with high-level requirements, we dive deep into the situation, ask the right
-                questions, and
+                >to drive organic traffic, improve search rankings, and help your business 
               </span>
-              <span>uncover hidden needs and goals to ensure a comprehensive understanding.</span>
+              <span>thrive in the digital landscape.</span>
             </div>
           </div>
         </li>
@@ -249,7 +235,7 @@
             <div class="flex items-center justify-center flex-col gap-4">
               <img src="../assets/imgs/Services/Eigth.png" />
               <span class="text-white text-[16px] md:text-[20px] font-[700] font-Onset"
-                >Engaged Requirements Engineering</span
+                >Consultation</span
               >
             </div>
           </div>
@@ -258,17 +244,186 @@
               class="flex items-center justify-center flex-col text-[10px] md:text-[14px] text-white font-[500] font-Onset"
             >
               <span
-                >We understand that not all clients come with detailed project specifications. When
-                presented
+                >Optimize your operations with our IT consultation services. We provide
               </span>
               <span
-                >with high-level requirements, we dive deep into the situation, ask the right
-                questions, and
+                > tailored solutions to address your unique challenges, streamline processes, 
               </span>
-              <span>uncover hidden needs and goals to ensure a comprehensive understanding.</span>
+              <span>and drive innovation for lasting success.</span>
             </div>
           </div>
         </li>
+      </div>
+      <div class="boxes grid md:hidden grid-cols-1 2xl:grid-cols-2 gap-6">
+        <div class="service flex items-center justify-center flex-col gap-4">
+          <div >
+            <div class="flex items-center justify-center flex-col gap-4">
+              <img src="../assets/imgs/Services/First.png" />
+              <span class="text-white text-[16px] md:text-[20px] font-[700] font-Onset"
+                >Website Development </span
+              >
+            </div>
+          </div>
+         
+            <div
+              class="flex items-center justify-center flex-col text-[10px] md:text-[14px] text-white font-[500] font-Onset"
+            >
+              <span
+                >Achieve your business objectives with a custom-designed website  
+              </span>
+              <span
+                >that is fast, reliable, and user-friendly. Whether you need a 
+              </span>
+              <span> simple informational  site or a complex system,  </span>
+              <span> we provide end-to-end support.</span>
+            </div>
+       
+          </div>
+        <div class="service flex items-center justify-center flex-col gap-4">
+          
+            <div class="flex items-center justify-center flex-col gap-4">
+              <img src="../assets/imgs/Services/Second.png" />
+              <span class="text-white text-[16px] md:text-[20px] font-[700] font-Onset"
+                >E-Commerce</span
+              >
+            </div>
+          
+         
+            <div
+              class="flex items-center justify-center flex-col text-[10px] md:text-[14px] text-white font-[500] font-Onset"
+            >
+              <span
+                >Increase your sales with our e-commerce website solutions. 
+              </span>
+              <span
+                >Our user-friendly designs, intuitive navigation, and dependable 
+              </span>
+              <span>performance make online selling seamless and effective.</span>
+            </div>
+          
+          </div>
+        <div class="service flex items-center justify-center flex-col gap-4">
+        
+            <div class="flex items-center justify-center flex-col gap-4">
+              <img src="../assets/imgs/Services/Third.png" />
+              <span class="text-white text-[16px] md:text-[20px] font-[700] font-Onset"
+                >App Development</span
+              >
+            </div>
+        
+            <div
+              class="flex items-center justify-center flex-col text-[10px] md:text-[14px] text-white font-[500] font-Onset"
+            >
+              <span
+                >Elevate your business with our web app development services. 
+              </span>
+              <span
+                >We deliver tailored, user-friendly solutions built with the latest 
+              </span>
+              <span>technologies to ensure your online success.</span>
+            </div>
+      
+          </div>
+        <div class="service flex items-center justify-center flex-col gap-4">
+       
+            <div class="flex items-center justify-center flex-col gap-4">
+              <img src="../assets/imgs/Services/Fourth.png" />
+              <span class="text-white text-[16px] md:text-[20px] font-[700] font-Onset"
+                >UI/UX Design</span
+              >
+            </div>
+         
+            <div
+              class="flex items-center justify-center flex-col text-[10px] md:text-[14px] text-white font-[500] font-Onset"
+            >
+              <span
+                >Reimagine your brand with our UI/UX design and branding services. 
+              </span>
+              <span
+                >We create captivating interfaces and cohesive brand identities that 
+              </span>
+              <span>resonate with your audience and leave a lasting digital impression.</span>
+            </div>
+          </div>
+      
+        <div class="service flex items-center justify-center flex-col gap-4">
+       
+            <div class="flex items-center justify-center flex-col gap-4">
+              <img src="../assets/imgs/Services/Fifth.png" />
+              <span class="text-white text-[16px] md:text-[20px] font-[700] font-Onset"
+                >CMS</span
+              >
+            </div>
+            <div
+              class="flex items-center justify-center flex-col text-[10px] md:text-[14px] text-white font-[500] font-Onset"
+            >
+              <span
+                >Streamline your website management with our CMS solutions.
+              </span>
+              <span
+                >We provide user-friendly, customizable systems that make updating your
+              </span>
+              <span>content simple and efficient, ensuring your site stays fresh and engaging.</span>
+            </div>
+          </div>
+        <div class="service flex items-center justify-center flex-col gap-4">
+            <div class="flex items-center justify-center flex-col gap-4">
+              <img src="../assets/imgs/Services/Sixth.png" />
+              <span class="text-white text-[16px] md:text-[20px] font-[700] font-Onset"
+                >Logo Design & Branding</span
+              >
+            </div>
+            <div
+              class="flex items-center justify-center flex-col text-[10px] md:text-[14px] text-white font-[500] font-Onset"
+            >
+              <span
+                >Transform your business identity with our branding services. We craft cohesive, 
+              </span>
+              <span
+                >memorable brand strategies that resonate with your audience 
+              </span>
+              <span>and set you apart in the market.</span>
+            </div>
+          </div>
+        
+        <div class="service flex items-center justify-center flex-col gap-4">
+            <div class="flex items-center justify-center flex-col gap-4">
+              <img src="../assets/imgs/Services/Seventh.png" />
+              <span class="text-white text-[16px] md:text-[20px] font-[700] font-Onset"
+                >SEO</span
+              >
+            </div>
+            <div
+              class="flex items-center justify-center flex-col text-[10px] md:text-[14px] text-white font-[500] font-Onset"
+            >
+              <span
+                >Boost your online visibility with our expert SEO services. We use proven strategies 
+              </span>
+              <span
+                >to drive organic traffic, improve search rankings, and help your business 
+              </span>
+              <span>thrive in the digital landscape.</span>
+            </div>
+          </div>
+        <div class="service flex items-center justify-center flex-col gap-4">
+            <div class="flex items-center justify-center flex-col gap-4">
+              <img src="../assets/imgs/Services/Eigth.png" />
+              <span class="text-white text-[16px] md:text-[20px] font-[700] font-Onset"
+                >Consultation</span
+              >
+            </div>
+            <div
+              class="flex items-center justify-center flex-col text-[10px] md:text-[14px] text-white font-[500] font-Onset"
+            >
+              <span
+                >Optimize your operations with our IT consultation services. We provide
+              </span>
+              <span
+                > tailored solutions to address your unique challenges, streamline processes, 
+              </span>
+              <span>and drive innovation for lasting success.</span>
+            </div>
+          </div>
       </div>
     </div>
 
@@ -541,13 +696,32 @@ li {
     transform: rotateY(0);
   }
 }
-@media (max-width: 750px) {
+@media (max-width: 1450px) {
   li {
-    width: 350px;
-    height: 135px;
+    width: 500px;
   }
 }
+.service {
+    width: 350px;
+    height: 235px;
+    position: relative;
+    cursor: pointer;
+    padding-inline: 1rem;
+  }
 li:before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: linear-gradient(180deg, rgba(21, 243, 175, 0.14) 0%, rgba(104, 110, 218, 0.4) 100%);
+
+  opacity: 40%;
+  border: 1px solid #fff;
+  border-radius: 4px;
+}
+.service:before {
   content: '';
   position: absolute;
   top: 0;

@@ -104,7 +104,7 @@
       <span class="text-[20px] sm:text-[30px] lg:text-[50px] text-white font-[700] font-Onset"
         >How We Guarantee Project Success</span
       >
-      <div class="boxes grid grid-cols-1 lg:grid-cols-2 gap-4">
+      <div class="boxes hidden md:grid grid-cols-1 lg:grid-cols-2 gap-4">
         <li>
           <div class="front">
             <div class="flex items-center justify-center flex-col gap-4">
@@ -356,6 +356,222 @@
           </div>
         </li>
       </div>
+      <div class="boxes grid md:hidden grid-cols-1 2xl:grid-cols-2 gap-6">
+        <div class="service flex items-center justify-center flex-col gap-4">
+          <div >
+            <div class="flex items-center justify-center flex-col gap-4">
+              <img src="../assets/imgs/About/First.png" />
+              <span class="text-white text-[16px] md:text-[20px] font-[700] font-Onset"
+                >Engaged Requirements Engineering</span
+              >
+            </div>
+          </div>
+         
+            <div
+              class="flex items-center justify-center flex-col text-[10px] md:text-[14px] text-white font-[500] font-Onset"
+            >
+              <span
+                >We understand that not all clients come with detailed project 
+              </span>
+              <span
+                >specifications. When presented  with high-level requirements, 
+              </span>
+              <span>we dive  deep into  the situation, ask the right questions,    </span>
+              <span>and  uncover hidden needs and goals to ensure  </span>
+              <span>a comprehensive understanding.</span>
+            </div>
+       
+          </div>
+        <div class="service flex items-center justify-center flex-col gap-4">
+          
+            <div class="flex items-center justify-center flex-col gap-4">
+              <img src="../assets/imgs/About/Second.png" />
+              <span class="text-white text-[16px] md:text-[20px] font-[700] font-Onset"
+                >Accurate and Realistic Cost Estimation</span
+              >
+            </div>
+          
+         
+            <div
+              class="flex items-center justify-center flex-col text-[10px] md:text-[14px] text-white font-[500] font-Onset"
+            >
+              <span
+                >Through meticulous work during the discovery phase, we define 
+              </span>
+              <span
+                >the complete project scope, enabling us to provide precise
+              </span>
+              <span> cost estimates. We proactively  assess risks and explore </span>
+              <span> opportunities for cost optimization</span>
+              <span>whenever possible.</span>
+            </div>
+          
+          </div>
+        <div class="service flex items-center justify-center flex-col gap-4">
+        
+            <div class="flex items-center justify-center flex-col gap-4">
+              <img src="../assets/imgs/About/Third.png" />
+              <span class="text-white text-[16px] md:text-[20px] font-[700] font-Onset"
+                >Dynamic and Controllable Project Scoping</span
+              >
+            </div>
+        
+            <div
+              class="flex items-center justify-center flex-col text-[10px] md:text-[14px] text-white font-[500] font-Onset"
+            >
+              <span
+                >At the outset, we establish detailed project requirements while  
+              </span>
+              <span
+                >remaining responsive to stakeholder feedback throughout the 
+              </span>
+              <span>process. This approach  ensures the final software aligns </span>
+              <span> with the client’s evolving goals and priorities.</span>
+            </div>
+      
+          </div>
+        <div class="service flex items-center justify-center flex-col gap-4">
+       
+            <div class="flex items-center justify-center flex-col gap-4">
+              <img src="../assets/imgs/About/Fourth.png" />
+              <span class="text-white text-[16px] md:text-[20px] font-[700] font-Onset"
+                >Comprehensive Risk Management</span
+              >
+            </div>
+         
+            <div
+              class="flex items-center justify-center flex-col text-[10px] md:text-[14px] text-white font-[500] font-Onset"
+            >
+              <span
+                >We identify and address operational, business, technological, and  
+              </span>
+              <span
+                >external risks, developing robust mitigation strategies to handle 
+              </span>
+              <span>potential disruptions  with speed and confidence.</span>
+            </div>
+          </div>
+      
+        <div class="service flex items-center justify-center flex-col gap-4">
+       
+            <div class="flex items-center justify-center flex-col gap-4">
+              <img src="../assets/imgs/About/Fifth.png" />
+              <span class="text-white text-[16px] md:text-[20px] font-[700] font-Onset"
+                >Agile Delivery</span
+              >
+            </div>
+            <div
+              class="flex items-center justify-center flex-col text-[10px] md:text-[14px] text-white font-[500] font-Onset"
+            >
+              <span
+                >By adopting an Agile approach, we manage evolving requirements 
+              </span>
+              <span
+                >effectively. Breaking  the development process into sprints allows 
+              </span>
+              <span>us to prioritize features, execute full cycles  of ideation, </span>
+              <span> development, testing, and deployment, and </span>
+              <span>deliver results iteratively.</span>
+            </div>
+          </div>
+        <div class="service flex items-center justify-center flex-col gap-4">
+            <div class="flex items-center justify-center flex-col gap-4">
+              <img src="../assets/imgs/About/Sixth.png" />
+              <span class="text-white text-[16px] md:text-[20px] font-[700] font-Onset"
+                >Prevention of Scope Creep</span
+              >
+            </div>
+            <div
+              class="flex items-center justify-center flex-col text-[10px] md:text-[14px] text-white font-[500] font-Onset"
+            >
+              <span
+                >We remain adaptable to changes in functional and non-functional  
+              </span>
+              <span
+                >requirements during the project. To ensure smooth progress, we 
+              </span>
+              <span> carefully evaluate the feasibility and impact of each change </span>
+              <span>request before implementation.</span>
+            </div>
+          </div>
+        
+        <div class="service flex items-center justify-center flex-col gap-4">
+            <div class="flex items-center justify-center flex-col gap-4">
+              <img src="../assets/imgs/About/Seventh.png" />
+              <span class="text-white text-[16px] md:text-[20px] font-[700] font-Onset"
+                >Budget Control</span
+              >
+            </div>
+            <div
+              class="flex items-center justify-center flex-col text-[10px] md:text-[14px] text-white font-[500] font-Onset"
+            >
+              <span
+                >Our cost estimations are grounded in thorough planning and a robust 
+              </span>
+              <span
+                >risk mitigation  strategy. We meticulously manage change requests 
+              </span>
+              <span>and closely monitor budget  utilization throughout the project.</span>
+            </div>
+          </div>
+        <div class="service flex items-center justify-center flex-col gap-4">
+            <div class="flex items-center justify-center flex-col gap-4">
+              <img src="../assets/imgs/About/eight.png" />
+              <span class="text-white text-[16px] md:text-[20px] font-[700] font-Onset"
+                >Commitment to Deadlines</span
+              >
+            </div>
+            <div
+              class="flex items-center justify-center flex-col text-[10px] md:text-[14px] text-white font-[500] font-Onset"
+            >
+              <span
+                >By breaking down tasks, maintaining clear documentation, and 
+              </span>
+              <span
+                >conducting regular  retrospectives, we ensure effective time 
+              </span>
+              <span>management and adherence to project timelines.</span>
+            </div>
+          </div>
+          <div class="service flex items-center justify-center flex-col gap-4">
+            <div class="flex items-center justify-center flex-col gap-4">
+              <img src="../assets/imgs/About/nineth.png" />
+              <span class="text-white text-[16px] md:text-[20px] font-[700] font-Onset"
+                >Streamedline Team Collaboration</span
+              >
+            </div>
+            <div
+              class="flex items-center justify-center flex-col text-[10px] md:text-[14px] text-white font-[500] font-Onset"
+            >
+              <span
+                >We establish customized communication flows, selectng  appropriete  
+              </span>
+              <span
+                >methods  and  frequencies to fater seamless collaboration between all 
+              </span>
+              <span>stakeholders on both our team and the clienr's side.</span>
+            </div>
+          </div>
+          <div class="service flex items-center justify-center flex-col gap-4">
+            <div class="flex items-center justify-center flex-col gap-4">
+              <img src="../assets/imgs/About/tenth.png" />
+              <span class="text-white text-[16px] md:text-[20px] font-[700] font-Onset"
+                >Transparent Reporting</span
+              >
+            </div>
+            <div
+              class="flex items-center justify-center flex-col text-[10px] md:text-[14px] text-white font-[500] font-Onset"
+            >
+              <span
+                >We provide regular updates on agreed-upon KPIs and deliver  
+              </span>
+              <span
+                >accurate progress forecasts, keeping clients fully informed  
+              </span>
+              <span>at every stage of the project.</span>
+            </div>
+          </div>
+      </div>
     </div>
     <div class="mt-32 w-full">
       <img src="../assets/imgs/About/Map.png" />
@@ -497,9 +713,25 @@ li:before {
     width: 500px;
   }
 }
-@media (max-width: 640px) {
-  li {
-    width: 350px;
-  }
+.service{
+  width: 350px;
+  height: 235px;
+  position: relative;
+  cursor: pointer;
+
 }
+.service:before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: linear-gradient(180deg, rgba(21, 243, 175, 0.14) 0%, rgba(104, 110, 218, 0.4) 100%);
+
+  opacity: 40%;
+  border: 1px solid #fff;
+  border-radius: 4px;
+}
+
 </style>
