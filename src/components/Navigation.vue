@@ -96,6 +96,7 @@ export default {
         { name: 'Technologies', path: '/technologies' },
         { name: 'Process', path: '/process' },
         { name: 'FAQ', path: '/faq' },
+        { name: 'Pricing', path: '/pricing' },
         { name: 'Contact US', path: '/contact-us' },
       ],
     }

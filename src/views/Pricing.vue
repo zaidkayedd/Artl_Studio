@@ -175,10 +175,10 @@
             >
           </div>
           <div
-            class="textArea flex items-center justify-center h-[285px] w-[300px] sm:w-[400px] 2xl:w-[673px] px-2 2xl:px-0"
+            class="textArea flex items-center justify-center  px-2 2xl:px-2 py-4"
           >
             <textarea
-              class="w-[280px] sm:w-[640px] h-[255px] bg-transparent z-10 outline-none text-[20px] sm:text-[26px] font-Onset font-[500]"
+              class="textArea h-[285px] w-[300px] sm:w-[400px] 2xl:w-[673px] px-2 2xl:px-0 bg-transparent z-10 outline-none text-[20px] sm:text-[26px] font-Onset font-[500]"
               placeholder="Your request/message..."
             ></textarea>
           </div>
