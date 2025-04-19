@@ -1,7 +1,7 @@
 <template>
   <div class="flex items-center justify-center">
     <div
-      class="flex items-center justify-between w-full gap-[13rem] h-[120px] max-w-[1000px] sm:max-w-[1500px] xl:gap-[17.5rem] lg:gap-[55rem] md:gap-[35rem] sm:gap-[27rem]"
+      class="flex items-center justify-between w-full gap-[10rem] h-[120px] max-w-[1000px] sm:max-w-[1500px] xl:gap-[17.5rem] lg:gap-[55rem] md:gap-[35rem] sm:gap-[27rem]"
     >
       <div class="left">
         <RouterLink to="/"> <img src="../assets/imgs/nav/Logo.png" /></RouterLink>
@@ -18,7 +18,7 @@
       <transition name="fade-slide">
         <div
           v-if="showMenu"
-          class="Menu z-10 backdrop-blur-lg flex xl:hidden flex-col items-start justify-center w-full max-w-[400px]  absolute top-[7.3rem] right-4 rounded-[6px] p-2"
+          class="Menu z-10 backdrop-blur-lg flex xl:hidden flex-col items-start justify-center w-full max-w-[370px]  absolute top-[7.3rem] right-4 rounded-[6px] p-2"
         >
           <div class="flex flex-col items-start justify-start px-4   w-full max-w-[400px]">
             <router-link
@@ -91,7 +91,7 @@ export default {
       activeLink: 'Dashboard',
       links: [
         { name: 'Home', path: '/' },
-        { name: 'About US', path: '/about' },
+        { name: 'About Us', path: '/about' },
         { name: 'Services', path: '/services' },
         { name: 'Technologies', path: '/technologies' },
         { name: 'Process', path: '/process' },

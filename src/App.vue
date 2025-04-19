@@ -152,7 +152,8 @@ nav a:first-of-type {
   align-items: center;
   justify-content: center;
   flex-direction: column;
-  gap: 9.65rem;
+  gap: 
+  3.65rem;
   background-repeat: no-repeat;
 }
   

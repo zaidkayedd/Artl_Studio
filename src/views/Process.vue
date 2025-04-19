@@ -1,7 +1,7 @@
 <template>
-  <div class="flex items-center justify-center flex-col gap-[5rem]">
+  <div class="flex items-center justify-center flex-col gap-[2rem] sm:gap-[5rem]">
     <div
-      class="gridContainer w-full h-full max-w-[1500px] flex items-center justify-center flex-col gap-[20rem] translate-y-[-7rem] sm:translate-y-0"
+      class="gridContainer w-full h-full max-w-[1500px] flex items-center justify-center flex-col gap-[20rem] translate-y-[-7rem] sm:translate-y-0 mt-24 sm:mt-0"
     >
       <div class="flex items-center justify-center">
         <div class="flex items-center justify-center flex-col gap-10">
@@ -51,7 +51,7 @@
       >
 
       <div class="grid grid-cols-1 gap-4">
-        <div class="box w-[350px] sm:w-[500px] md:w-[700px] lg:w-[1000px]  2xl:w-[1419px] h-[200px] flex items-start justify-center flex-col p-20 gap-4">
+        <div class="box w-[350px] sm:w-[500px] md:w-[700px] lg:w-[1000px]  2xl:w-[1419px] h-[200px] flex items-start justify-center flex-col p-4 sm:p-20 gap-4">
           <div class="flex items-center justify-center gap-2">
             <img src="../assets/imgs/Process/First.png" />
             <span class="font-[600] font-Onset text-white text-[14px] sm:text-[20px] lg:text-[25px]">Send Us a request</span>
@@ -61,7 +61,7 @@
             1­–2 hours to 1 business day, depending on the queue.</span
           >
         </div>
-        <div class="box w-[350px] sm:w-[500px] md:w-[700px] lg:w-[1000px] 2xl:w-[1419px] h-[200px] flex items-start justify-center flex-col p-20 gap-4">
+        <div class="box w-[350px] sm:w-[500px] md:w-[700px] lg:w-[1000px] 2xl:w-[1419px] h-[200px] flex items-start justify-center flex-col p-4 sm:p-20 gap-4">
           <div class="flex items-center justify-center gap-2">
             <img src="../assets/imgs/Process/Second.png" />
             <span class="font-[600] font-Onset text-white text-[14px] sm:text-[20px] lg:text-[25px]"
@@ -74,7 +74,7 @@
             pains and detect more value creation opportunities you can leverage.</span
           >
         </div>
-        <div class="box  w-[350px] sm:w-[500px] md:w-[700px] lg:w-[1000px] 2xl:w-[1419px] h-[200px] flex items-start justify-center flex-col p-20 gap-4">
+        <div class="box  w-[350px] sm:w-[500px] md:w-[700px] lg:w-[1000px] 2xl:w-[1419px] h-[200px] flex items-start justify-center flex-col p-4 sm:p-20 gap-4">
           <div class="flex items-center justify-center gap-2">
             <img src="../assets/imgs/Process/Third.png" />
             <span class="font-[600] font-Onset text-white text-[14px] sm:text-[20px] lg:text-[25px]">Sign an NDA</span>
@@ -85,7 +85,7 @@
             introductory call or only in case we sign a service contract.</span
           >
         </div>
-        <div class="box  w-[350px] sm:w-[500px] md:w-[700px] lg:w-[1000px] 2xl:w-[1419px] h-[200px] flex items-start justify-center flex-col p-20 gap-4">
+        <div class="box  w-[350px] sm:w-[500px] md:w-[700px] lg:w-[1000px] 2xl:w-[1419px] h-[200px] flex items-start justify-center flex-col p-4 sm:p-20 gap-4">
           <div class="flex items-center justify-center gap-2">
             <img src="../assets/imgs/Process/Fourth.png" />
             <span class="font-[600] font-Onset text-white text-[14] sm:text-[20px] selection:lg:text-[25px]">Get a Proposal</span>
@@ -95,7 +95,7 @@
             scope or the solution we offer.
           </span>
         </div>
-        <div class="box  w-[350px] sm:w-[500px] md:w-[700px] lg:w-[1000px] 2xl:w-[1419px] h-[200px] flex items-start justify-center flex-col p-20 gap-4">
+        <div class="box  w-[350px] sm:w-[500px] md:w-[700px] lg:w-[1000px] 2xl:w-[1419px] h-[200px] flex items-start justify-center flex-col p-4 sm:p-20 gap-4">
           <div class="flex items-center justify-center gap-2">
             <img src="../assets/imgs/Process/Fifth.png" />
             <span class="font-[600] font-Onset text-white text-[14px] sm:text-[20px] lg:text-[25px]"

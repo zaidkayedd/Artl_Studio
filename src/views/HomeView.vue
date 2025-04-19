@@ -1,7 +1,7 @@
 <template>
   <div class="flex items-center justify-center flex-col gap-4 sm:gap-[5rem]">
     <div
-      class="gridContainer w-full h-full max-w-[1500px] flex items-center justify-center flex-col gap-[7rem] md:gap-[12rem] lg:gap-[15rem] xl:gap-[20rem] translate-y-[-7rem] sm:translate-y-0"
+      class="gridContainer w-full h-full max-w-[1500px] flex items-center justify-center flex-col gap-[7rem] md:gap-[12rem] lg:gap-[15rem] xl:gap-[20rem] translate-y-[-7rem] sm:translate-y-0 mt-20 sm:mt-0"
     >
       <div class="flex items-center justify-center flex-col gap-4 sm:gap-[4.3rem]">
         <span

@@ -1,8 +1,8 @@
-`
+
 <template>
-  <div class="flex items-center justify-center flex-col gap-[5rem]">
+  <div class="flex items-center justify-center flex-col gap-[0rem] sm:gap-[5rem]">
     <div
-      class="gridContainer w-full h-full max-w-[1500px] flex items-center justify-center flex-col gap-[10rem] sm:gap-[12rem] xl:gap-[20rem] translate-y-[-12rem] sm:translate-y-0 mt-24 sm:mt-0"
+      class="gridContainer w-full h-full max-w-[1500px] flex items-center justify-center flex-col gap-[5rem] sm:gap-[12rem] xl:gap-[20rem] translate-y-[-12rem] sm:translate-y-0 mt-32 sm:mt-0"
     >
       <div class="flex items-center justify-center flex-col sm:flex-row gap-10 sm:gap-2 lg:gap-16">
         <div>
@@ -526,7 +526,7 @@
         </div>
       </div>
     </div>
-    <div class="mt-32 w-full">
+    <div class=" mt-16 sm:mt-32 w-full">
       <img src="../assets/imgs/About/Map.png" />
     </div>
     <div class="flex flex-col items-center justify-center gap-8 mt-6">

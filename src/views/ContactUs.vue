@@ -104,7 +104,7 @@
       </div>
     </div>
       </div>
-<div class="flex items-center justify-center flex-col gap-[2rem] lg:gap-[10rem] mt-[5rem]">
+<div class="flex items-center justify-center flex-col gap-[2rem] lg:gap-[10rem] mt-0 sm:mt-[5rem]">
     <span class="font-[700] text-[20px] sm:text-[30px] lg:text-[50px] text-white">We are always happy to assist you</span>
     <div class="flex items-center justify-between flex-col gap-[10rem] xl:gap-0 xl:flex-row w-[400px] sm:w-[600px] 2xl:w-[1418px] xl:w-[1150px] lg:w-[1000px] md:w-[700px]">
         <div class="w-[300px] sm:w-[550px] flex items-start justify-center flex-col gap-2"> 
